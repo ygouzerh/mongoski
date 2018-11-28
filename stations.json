@@ -1,0 +1,3015 @@
+{
+    "_id": "5bfecf4b3708a1692b1befa3",
+    "nom": "La bresse",
+    "massif": "Vosges",
+    "prixForfait": 28,
+    "heureOuverture": 10,
+    "heureFermeture": 18,
+    "altitudeMin": 800,
+    "altitudeMax": 1500,
+    "pistes": [
+      {
+        "nom": "Mouflon 5",
+        "niveau": "vert",
+        "longueur": "13.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 840,
+          "max": 1251
+        }
+      },
+      {
+        "nom": "Glacier 4",
+        "niveau": "vert",
+        "longueur": "3.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 864,
+          "max": 1089
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "rouge",
+        "longueur": "7.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 814,
+          "max": 960
+        }
+      },
+      {
+        "nom": "Renard 4",
+        "niveau": "rouge",
+        "longueur": "1.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 866,
+          "max": 1283
+        }
+      },
+      {
+        "nom": "Lac blanc 2",
+        "niveau": "vert",
+        "longueur": "8.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 871,
+          "max": 994
+        }
+      },
+      {
+        "nom": "Alouette 2",
+        "niveau": "noir",
+        "longueur": "2.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 887,
+          "max": 1249
+        }
+      },
+      {
+        "nom": "Marmotte 3",
+        "niveau": "rouge",
+        "longueur": "2.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 872,
+          "max": 913
+        }
+      },
+      {
+        "nom": "Le mur 5",
+        "niveau": "rouge",
+        "longueur": "12.6",
+        "eclairage": false,
+        "altitude": {
+          "min": 810,
+          "max": 1221
+        }
+      },
+      {
+        "nom": "Lac blanc 1",
+        "niveau": "noir",
+        "longueur": "6.1",
+        "eclairage": true,
+        "altitude": {
+          "min": 841,
+          "max": 1133
+        }
+      },
+      {
+        "nom": "Renard 3",
+        "niveau": "vert",
+        "longueur": "1.6",
+        "eclairage": false,
+        "altitude": {
+          "min": 890,
+          "max": 1392
+        }
+      },
+      {
+        "nom": "Côtes 5",
+        "niveau": "rouge",
+        "longueur": "9.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 838,
+          "max": 1377
+        }
+      },
+      {
+        "nom": "Bellecombes 3",
+        "niveau": "noir",
+        "longueur": "10.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 808,
+          "max": 1386
+        }
+      },
+      {
+        "nom": "Vallée blanche 2",
+        "niveau": "bleu",
+        "longueur": "11.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 892,
+          "max": 1119
+        }
+      },
+      {
+        "nom": "Diable 4",
+        "niveau": "rouge",
+        "longueur": "14.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 858,
+          "max": 1356
+        }
+      },
+      {
+        "nom": "Côtes 5",
+        "niveau": "vert",
+        "longueur": "8.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 827,
+          "max": 1040
+        }
+      },
+      {
+        "nom": "Sources 4",
+        "niveau": "rouge",
+        "longueur": "4.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 872,
+          "max": 1276
+        }
+      },
+      {
+        "nom": "Bouc blanc 5",
+        "niveau": "noir",
+        "longueur": "8.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 889,
+          "max": 1124
+        }
+      },
+      {
+        "nom": "Biche 5",
+        "niveau": "bleu",
+        "longueur": "14.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 851,
+          "max": 1291
+        }
+      },
+      {
+        "nom": "Marmotte 3",
+        "niveau": "vert",
+        "longueur": "0.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 827,
+          "max": 1308
+        }
+      },
+      {
+        "nom": "Vallée blanche 4",
+        "niveau": "rouge",
+        "longueur": "5.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 898,
+          "max": 1128
+        }
+      },
+      {
+        "nom": "Sources 4",
+        "niveau": "bleu",
+        "longueur": 11,
+        "eclairage": true,
+        "altitude": {
+          "min": 870,
+          "max": 1409
+        }
+      },
+      {
+        "nom": "Belvédère 5",
+        "niveau": "vert",
+        "longueur": 15,
+        "eclairage": false,
+        "altitude": {
+          "min": 819,
+          "max": 1486
+        }
+      },
+      {
+        "nom": "Creux 2",
+        "niveau": "bleu",
+        "longueur": "13.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 899,
+          "max": 1149
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f8779371e0223537cb", "5bfec1f85d93db46b80c1f63", "5bfec1f8447193c30968a4a3", "5bfec1f8e3a97b8830ea9f2d", "5bfec1f8d01e0baaddd07f47", "5bfec1f873af57e395bfa25d", "5bfec1f832eb755f64dcb59e", "5bfec1f8d7b18f6afb55a68d", "5bfec1f8ea2397ac9702ce9f"],
+    "enneigementStation": 107,
+    "enneigementSommet": 136,
+    "remonteesMecaniques": [
+      {
+        "nom": "Loze",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2018-08-08T00:00:00Z"),
+        "employe_id": "5bfec10945d7c8b1e788ee9d"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2014-08-28T00:00:00Z"),
+        "employe_id": "5bfec109c31e6946d2b16eca"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-11-23T00:00:00Z"),
+        "employe_id": "5bfec109fb8c4bd54afa0f60"
+      },
+      {
+        "nom": "Morel",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2011-02-01T00:00:00Z"),
+        "employe_id": "5bfec1096a57ac6374729a8b"
+      },
+      {
+        "nom": "Verdons",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-07-24T00:00:00Z"),
+        "employe_id": "5bfec109bfbb007824723936"
+      }
+    ]
+}
+{
+  "_id": "5bfed0b40af9fae9803350d8",
+  "nom": "Les 2 Alpes",
+  "massif": "Alpes",
+  "prixForfait": 45,
+  "heureOuverture": 8,
+  "heureFermeture": 16,
+  "altitudeMin": 1600,
+  "altitudeMax": 3500,
+  "pistes": [
+    {
+      "nom": "Mouflon 1",
+      "niveau": "rouge",
+      "longueur": "7.5",
+      "eclairage": false,
+      "altitude": {
+        "min": 1690,
+        "max": 2331
+      }
+    },
+    {
+      "nom": "Mouflon 2",
+      "niveau": "rouge",
+      "longueur": 1,
+      "eclairage": true,
+      "altitude": {
+        "min": 1801,
+        "max": 3372
+      }
+    },
+    {
+      "nom": "Demoiselles 3",
+      "niveau": "vert",
+      "longueur": "5.1",
+      "eclairage": false,
+      "altitude": {
+        "min": 1644,
+        "max": 3048
+      }
+    },
+    {
+      "nom": "Le mur 5",
+      "niveau": "rouge",
+      "longueur": "2.4",
+      "eclairage": true,
+      "altitude": {
+        "min": 2171,
+        "max": 2533
+      }
+    },
+    {
+      "nom": "Niverolle 4",
+      "niveau": "rouge",
+      "longueur": "2.8",
+      "eclairage": false,
+      "altitude": {
+        "min": 1866,
+        "max": 2062
+      }
+    },
+    {
+      "nom": "Bellecombes 2",
+      "niveau": "bleu",
+      "longueur": "7.5",
+      "eclairage": false,
+      "altitude": {
+        "min": 1692,
+        "max": 2783
+      }
+    },
+    {
+      "nom": "Renard 1",
+      "niveau": "rouge",
+      "longueur": "12.8",
+      "eclairage": false,
+      "altitude": {
+        "min": 2129,
+        "max": 2344
+      }
+    },
+    {
+      "nom": "Bouc 5",
+      "niveau": "rouge",
+      "longueur": "6.3",
+      "eclairage": true,
+      "altitude": {
+        "min": 2118,
+        "max": 2899
+      }
+    },
+    {
+      "nom": "Belvédère 3",
+      "niveau": "rouge",
+      "longueur": "11.7",
+      "eclairage": false,
+      "altitude": {
+        "min": 1919,
+        "max": 2550
+      }
+    },
+    {
+      "nom": "Grandes combes 3",
+      "niveau": "bleu",
+      "longueur": "2.3",
+      "eclairage": false,
+      "altitude": {
+        "min": 1969,
+        "max": 2842
+      }
+    },
+    {
+      "nom": "Côtes 3",
+      "niveau": "bleu",
+      "longueur": "9.2",
+      "eclairage": true,
+      "altitude": {
+        "min": 1825,
+        "max": 3114
+      }
+    },
+    {
+      "nom": "Creux 5",
+      "niveau": "rouge",
+      "longueur": "12.1",
+      "eclairage": false,
+      "altitude": {
+        "min": 2037,
+        "max": 2366
+      }
+    },
+    {
+      "nom": "Vallée blanche 4",
+      "niveau": "rouge",
+      "longueur": "9.8",
+      "eclairage": true,
+      "altitude": {
+        "min": 1826,
+        "max": 2336
+      }
+    },
+    {
+      "nom": "Sources 5",
+      "niveau": "rouge",
+      "longueur": "7.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 1948,
+        "max": 3169
+      }
+    },
+    {
+      "nom": "Demoiselles 4",
+      "niveau": "bleu",
+      "longueur": "1.3",
+      "eclairage": false,
+      "altitude": {
+        "min": 1815,
+        "max": 1940
+      }
+    },
+    {
+      "nom": "Côtes 5",
+      "niveau": "rouge",
+      "longueur": "2.4",
+      "eclairage": true,
+      "altitude": {
+        "min": 2053,
+        "max": 3210
+      }
+    },
+    {
+      "nom": "Biche 5",
+      "niveau": "vert",
+      "longueur": "7.7",
+      "eclairage": false,
+      "altitude": {
+        "min": 1671,
+        "max": 3320
+      }
+    },
+    {
+      "nom": "Alouette 3",
+      "niveau": "noir",
+      "longueur": "14.1",
+      "eclairage": true,
+      "altitude": {
+        "min": 1676,
+        "max": 2089
+      }
+    }
+  ],
+  "pisteurs": ["5bfec1f8d1f7bc0de058445a", "5bfec1f8366983fee4999962", "5bfec1f8461c5147dd4684bf", "5bfec1f8de4c09458d10c65b", "5bfec1f8beb1a040a274fe8b"],
+  "enneigementStation": 101,
+  "enneigementSommet": 282,
+  "remonteesMecaniques": [
+    {
+      "nom": "Pralong",
+      "type": "Cabine",
+      "dateMiseEnService": ISODate("2010-08-03T00:00:00Z"),
+      "employe_id": "5bfec109c0970173c3510b9c"
+    },
+    {
+      "nom": "Bruyères",
+      "type": "Télésiège",
+      "dateMiseEnService": ISODate("2014-05-06T00:00:00Z"),
+      "employe_id": "5bfec109a03221fbac6ad7b3"
+    },
+    {
+      "nom": "Aiguille",
+      "type": "Télésiège",
+      "dateMiseEnService": ISODate("2013-07-13T00:00:00Z"),
+      "employe_id": "5bfec1090b37cf300a4c19ef"
+    },
+    {
+      "nom": "Pralong",
+      "type": "Cabine",
+      "dateMiseEnService": ISODate("2010-02-08T00:00:00Z"),
+      "employe_id": "5bfec109063ec8797f22c13b"
+    },
+    {
+      "nom": "Epicea",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2014-04-18T00:00:00Z"),
+      "employe_id": "5bfec1094791a80d98e97916"
+    }
+  ]
+}
+{
+  "_id": "5bfed151c5c2359af79528b0",
+  "nom": "L'Alpe d'huez",
+  "massif": "Alpes",
+  "prixForfait": 49,
+  "heureOuverture": 10,
+  "heureFermeture": 18,
+  "altitudeMin": 1832,
+  "altitudeMax": 3223,
+  "pistes": [
+    {
+      "nom": "Marmotte 2",
+      "niveau": "bleu",
+      "longueur": "4.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 2102,
+        "max": 2993
+      }
+    },
+    {
+      "nom": "Bellecombes 4",
+      "niveau": "bleu",
+      "longueur": "8.4",
+      "eclairage": true,
+      "altitude": {
+        "min": 2037,
+        "max": 2884
+      }
+    },
+    {
+      "nom": "Signal 2",
+      "niveau": "vert",
+      "longueur": "6.9",
+      "eclairage": false,
+      "altitude": {
+        "min": 2084,
+        "max": 2627
+      }
+    },
+    {
+      "nom": "Renard 3",
+      "niveau": "rouge",
+      "longueur": "7.5",
+      "eclairage": false,
+      "altitude": {
+        "min": 2147,
+        "max": 2162
+      }
+    },
+    {
+      "nom": "Marmotte 4",
+      "niveau": "rouge",
+      "longueur": 3,
+      "eclairage": false,
+      "altitude": {
+        "min": 1850,
+        "max": 1911
+      }
+    },
+    {
+      "nom": "Creux 4",
+      "niveau": "bleu",
+      "longueur": "4.1",
+      "eclairage": false,
+      "altitude": {
+        "min": 1848,
+        "max": 2202
+      }
+    },
+    {
+      "nom": "Bouc 3",
+      "niveau": "rouge",
+      "longueur": 7,
+      "eclairage": false,
+      "altitude": {
+        "min": 2117,
+        "max": 2484
+      }
+    },
+    {
+      "nom": "Grandes combes 5",
+      "niveau": "noir",
+      "longueur": "13.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 1895,
+        "max": 3057
+      }
+    },
+    {
+      "nom": "Lac blanc 3",
+      "niveau": "rouge",
+      "longueur": 13,
+      "eclairage": false,
+      "altitude": {
+        "min": 2019,
+        "max": 3132
+      }
+    },
+    {
+      "nom": "Chamois 3",
+      "niveau": "noir",
+      "longueur": 9,
+      "eclairage": true,
+      "altitude": {
+        "min": 1933,
+        "max": 2501
+      }
+    },
+    {
+      "nom": "Renard 5",
+      "niveau": "vert",
+      "longueur": "11.8",
+      "eclairage": true,
+      "altitude": {
+        "min": 2056,
+        "max": 2064
+      }
+    },
+    {
+      "nom": "Niverolle 4",
+      "niveau": "vert",
+      "longueur": "14.2",
+      "eclairage": true,
+      "altitude": {
+        "min": 1988,
+        "max": 2262
+      }
+    },
+    {
+      "nom": "Bellecombes 1",
+      "niveau": "noir",
+      "longueur": "2.2",
+      "eclairage": false,
+      "altitude": {
+        "min": 2029,
+        "max": 2865
+      }
+    },
+    {
+      "nom": "Glacier 2",
+      "niveau": "bleu",
+      "longueur": "11.4",
+      "eclairage": false,
+      "altitude": {
+        "min": 1839,
+        "max": 1965
+      }
+    },
+    {
+      "nom": "Bellecombes 3",
+      "niveau": "bleu",
+      "longueur": "8.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 1862,
+        "max": 1889
+      }
+    },
+    {
+      "nom": "Fée 1",
+      "niveau": "noir",
+      "longueur": 6,
+      "eclairage": true,
+      "altitude": {
+        "min": 2058,
+        "max": 2378
+      }
+    },
+    {
+      "nom": "Bosses 2",
+      "niveau": "rouge",
+      "longueur": "3.5",
+      "eclairage": false,
+      "altitude": {
+        "min": 1905,
+        "max": 2444
+      }
+    },
+    {
+      "nom": "Niverolle 3",
+      "niveau": "rouge",
+      "longueur": "11.4",
+      "eclairage": false,
+      "altitude": {
+        "min": 2088,
+        "max": 2089
+      }
+    },
+    {
+      "nom": "Bellecombes 2",
+      "niveau": "rouge",
+      "longueur": "14.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 2082,
+        "max": 2252
+      }
+    },
+    {
+      "nom": "Fée 1",
+      "niveau": "noir",
+      "longueur": "1.4",
+      "eclairage": false,
+      "altitude": {
+        "min": 2045,
+        "max": 2640
+      }
+    },
+    {
+      "nom": "Biche 3",
+      "niveau": "noir",
+      "longueur": "11.5",
+      "eclairage": true,
+      "altitude": {
+        "min": 1906,
+        "max": 2095
+      }
+    },
+    {
+      "nom": "Bosses 3",
+      "niveau": "noir",
+      "longueur": "3.6",
+      "eclairage": false,
+      "altitude": {
+        "min": 2183,
+        "max": 2678
+      }
+    },
+    {
+      "nom": "Renard 5",
+      "niveau": "noir",
+      "longueur": "9.9",
+      "eclairage": true,
+      "altitude": {
+        "min": 2164,
+        "max": 2724
+      }
+    },
+    {
+      "nom": "Alouette 2",
+      "niveau": "rouge",
+      "longueur": "5.1",
+      "eclairage": true,
+      "altitude": {
+        "min": 1833,
+        "max": 2297
+      }
+    }
+  ],
+  "pisteurs": ["5bfec1f8013f7718c023a930", "5bfec1f817be69a9a5b661f7", "5bfec1f89173e1f4652743e4", "5bfec1f8783e4cac6d72f206", "5bfec1f844d6690f42a8141f", "5bfec1f869b45cbe8acead2d", "5bfec1f8072ec64a50f708d7", "5bfec1f8a3c2ca54d60b2870", "5bfec1f8216b8be044f1d4e6"],
+  "enneigementStation": 178,
+  "enneigementSommet": 267,
+  "remonteesMecaniques": [
+    {
+      "nom": "Pralong",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2013-05-28T00:00:00Z"),
+      "employe_id": "5bfec10915cf21bc3800c706"
+    },
+    {
+      "nom": "Bruyères",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2014-12-22T00:00:00Z"),
+      "employe_id": "5bfec10918079701aad71757"
+    },
+    {
+      "nom": "Aiguille",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2018-08-05T00:00:00Z"),
+      "employe_id": "5bfec1097ae1999a763f52de"
+    },
+    {
+      "nom": "Dou des lanches",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2014-03-01T00:00:00Z"),
+      "employe_id": "5bfec1094d1f649334ecc0d0"
+    },
+    {
+      "nom": "Bruyères",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2014-10-30T00:00:00Z"),
+      "employe_id": "5bfec109b2dc1381aa1fdd24"
+    },
+    {
+      "nom": "Verdons",
+      "type": "Télésiège",
+      "dateMiseEnService": ISODate("2018-06-11T00:00:00Z"),
+      "employe_id": "5bfec10941bebb226448403b"
+    },
+    {
+      "nom": "Bruyères",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2018-11-03T00:00:00Z"),
+      "employe_id": "5bfec109020af8ec3eae92b6"
+    },
+    {
+      "nom": "Epicea",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2014-09-12T00:00:00Z"),
+      "employe_id": "5bfec109020af8ec3eae92b6"
+    },
+    {
+      "nom": "Tougnettes",
+      "type": "Cabine",
+      "dateMiseEnService": ISODate("2014-06-08T00:00:00Z"),
+      "employe_id": "5bfec1091471c330afc9a654"
+    },
+    {
+      "nom": "Bruyères",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2015-04-17T00:00:00Z"),
+      "employe_id": "5bfec10954e10866124d896c"
+    }
+  ]
+}
+{
+    "_id": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Chamonix",
+    "massif": "Alpes",
+    "prixForfait": 53,
+    "heureOuverture": 10,
+    "heureFermeture": 18,
+    "altitudeMin": 1032,
+    "altitudeMax": 3141,
+    "pistes": [
+      {
+        "nom": "Vallée blanche 4",
+        "niveau": "noir",
+        "longueur": "6.1",
+        "eclairage": true,
+        "altitude": {
+          "min": 1265,
+          "max": 2999
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "bleu",
+        "longueur": "7.5",
+        "eclairage": false,
+        "altitude": {
+          "min": 2060,
+          "max": 2243
+        }
+      },
+      {
+        "nom": "Tétras 1",
+        "niveau": "rouge",
+        "longueur": "2.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1464,
+          "max": 3012
+        }
+      },
+      {
+        "nom": "Fée 2",
+        "niveau": "vert",
+        "longueur": "10.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 1397,
+          "max": 2510
+        }
+      },
+      {
+        "nom": "Le mur 2",
+        "niveau": "bleu",
+        "longueur": "4.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1389,
+          "max": 2517
+        }
+      },
+      {
+        "nom": "Grandes combes 5",
+        "niveau": "rouge",
+        "longueur": "9.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 2197,
+          "max": 2907
+        }
+      },
+      {
+        "nom": "Pic bleu 2",
+        "niveau": "vert",
+        "longueur": "5.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1601,
+          "max": 2785
+        }
+      },
+      {
+        "nom": "Niverolle 4",
+        "niveau": "noir",
+        "longueur": "5.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1664,
+          "max": 2946
+        }
+      },
+      {
+        "nom": "Marmotte 1",
+        "niveau": "bleu",
+        "longueur": "2.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1515,
+          "max": 1522
+        }
+      },
+      {
+        "nom": "Biche 3",
+        "niveau": "bleu",
+        "longueur": "1.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1365,
+          "max": 1423
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f88ee54ac6e8f6627b", "5bfec1f8d95e2f89e6679809", "5bfec1f8fe88dcb992dd95ba", "5bfec1f881d19c7f245b14e7", "5bfec1f82f2568864e880017", "5bfec1f860d108132a967bf2", "5bfec1f8bd4b27ca1c29ecdf"],
+    "enneigementStation": 91,
+    "enneigementSommet": 251,
+    "remonteesMecaniques": [
+      {
+        "nom": "Dou des lanches",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2018-10-30T00:00:00Z"),
+        "employe_id": "5bfec109723e860027c191d4"
+      },
+      {
+        "nom": "Platières",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-04-10T00:00:00Z"),
+        "employe_id": "5bfec1093bba17558a74130c"
+      },
+      {
+        "nom": "Signal",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2018-09-10T00:00:00Z"),
+        "employe_id": "5bfec109a9b651d79ac5a20a"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2015-09-17T00:00:00Z"),
+        "employe_id": "5bfec109a9b651d79ac5a20a"
+      },
+      {
+        "nom": "Epicea",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2012-08-12T00:00:00Z"),
+        "employe_id": "5bfec109a3fcbc3b5e8c7db2"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2018-01-31T00:00:00Z"),
+        "employe_id": "5bfec109988135e2df0bea45"
+      },
+      {
+        "nom": "Dou des lanches",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2017-05-06T00:00:00Z"),
+        "employe_id": "5bfec1093d835ec3ae4c82a2"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2012-04-21T00:00:00Z"),
+        "employe_id": "5bfec1093a61783bfc2b22d2"
+      },
+      {
+        "nom": "Platières",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-09-13T00:00:00Z"),
+        "employe_id": "5bfec10932f0ed406b88c0df"
+      }
+    ]
+  }
+  {
+      "_id": "5bfed23625f4cf279ab04619",
+      "nom": "Super besse",
+      "massif": "Massif Central",
+      "prixForfait": 21,
+      "heureOuverture": 9,
+      "heureFermeture": 18,
+      "altitudeMin": 665,
+      "altitudeMax": 2574,
+      "pistes": [
+        {
+          "nom": "Fée 2",
+          "niveau": "bleu",
+          "longueur": 2,
+          "eclairage": false,
+          "altitude": {
+            "min": 950,
+            "max": 1109
+          }
+        },
+        {
+          "nom": "Chamois 4",
+          "niveau": "rouge",
+          "longueur": "8.9",
+          "eclairage": false,
+          "altitude": {
+            "min": 1096,
+            "max": 2026
+          }
+        },
+        {
+          "nom": "Côtes 4",
+          "niveau": "rouge",
+          "longueur": "12.3",
+          "eclairage": true,
+          "altitude": {
+            "min": 856,
+            "max": 1599
+          }
+        },
+        {
+          "nom": "Bosses 5",
+          "niveau": "noir",
+          "longueur": "3.2",
+          "eclairage": false,
+          "altitude": {
+            "min": 689,
+            "max": 2184
+          }
+        },
+        {
+          "nom": "Côtes 2",
+          "niveau": "bleu",
+          "longueur": "2.4",
+          "eclairage": false,
+          "altitude": {
+            "min": 829,
+            "max": 1356
+          }
+        },
+        {
+          "nom": "Glacier 5",
+          "niveau": "vert",
+          "longueur": "9.1",
+          "eclairage": true,
+          "altitude": {
+            "min": 876,
+            "max": 1912
+          }
+        },
+        {
+          "nom": "Glacier 2",
+          "niveau": "vert",
+          "longueur": "9.3",
+          "eclairage": false,
+          "altitude": {
+            "min": 878,
+            "max": 2145
+          }
+        },
+        {
+          "nom": "Côtes 5",
+          "niveau": "rouge",
+          "longueur": "12.9",
+          "eclairage": true,
+          "altitude": {
+            "min": 933,
+            "max": 1808
+          }
+        },
+        {
+          "nom": "Vallée blanche 1",
+          "niveau": "vert",
+          "longueur": 11,
+          "eclairage": false,
+          "altitude": {
+            "min": 900,
+            "max": 1383
+          }
+        },
+        {
+          "nom": "Creux 4",
+          "niveau": "bleu",
+          "longueur": "2.2",
+          "eclairage": false,
+          "altitude": {
+            "min": 992,
+            "max": 1610
+          }
+        },
+        {
+          "nom": "Bosses 4",
+          "niveau": "noir",
+          "longueur": "7.2",
+          "eclairage": true,
+          "altitude": {
+            "min": 885,
+            "max": 1367
+          }
+        },
+        {
+          "nom": "Creux 4",
+          "niveau": "noir",
+          "longueur": "7.9",
+          "eclairage": false,
+          "altitude": {
+            "min": 1099,
+            "max": 1806
+          }
+        },
+        {
+          "nom": "Vallée blanche 1",
+          "niveau": "vert",
+          "longueur": "2.4",
+          "eclairage": true,
+          "altitude": {
+            "min": 982,
+            "max": 2218
+          }
+        },
+        {
+          "nom": "Marmotte 5",
+          "niveau": "noir",
+          "longueur": "1.6",
+          "eclairage": true,
+          "altitude": {
+            "min": 799,
+            "max": 2530
+          }
+        },
+        {
+          "nom": "Signal 5",
+          "niveau": "vert",
+          "longueur": "6.1",
+          "eclairage": true,
+          "altitude": {
+            "min": 766,
+            "max": 1320
+          }
+        },
+        {
+          "nom": "Bosses 5",
+          "niveau": "bleu",
+          "longueur": 6,
+          "eclairage": true,
+          "altitude": {
+            "min": 1005,
+            "max": 2359
+          }
+        },
+        {
+          "nom": "Alouette 2",
+          "niveau": "bleu",
+          "longueur": "13.9",
+          "eclairage": false,
+          "altitude": {
+            "min": 1095,
+            "max": 2419
+          }
+        },
+        {
+          "nom": "Renard 4",
+          "niveau": "bleu",
+          "longueur": "6.7",
+          "eclairage": false,
+          "altitude": {
+            "min": 912,
+            "max": 932
+          }
+        },
+        {
+          "nom": "Bouc blanc 5",
+          "niveau": "vert",
+          "longueur": "5.6",
+          "eclairage": false,
+          "altitude": {
+            "min": 685,
+            "max": 2238
+          }
+        },
+        {
+          "nom": "Bouc blanc 3",
+          "niveau": "bleu",
+          "longueur": "14.5",
+          "eclairage": false,
+          "altitude": {
+            "min": 678,
+            "max": 1169
+          }
+        },
+        {
+          "nom": "Mouflon 4",
+          "niveau": "rouge",
+          "longueur": "5.6",
+          "eclairage": true,
+          "altitude": {
+            "min": 760,
+            "max": 2153
+          }
+        },
+        {
+          "nom": "Belvédère 5",
+          "niveau": "rouge",
+          "longueur": "7.2",
+          "eclairage": true,
+          "altitude": {
+            "min": 730,
+            "max": 2054
+          }
+        },
+        {
+          "nom": "Grandes combes 2",
+          "niveau": "bleu",
+          "longueur": "12.7",
+          "eclairage": true,
+          "altitude": {
+            "min": 771,
+            "max": 1720
+          }
+        },
+        {
+          "nom": "Lac blanc 3",
+          "niveau": "bleu",
+          "longueur": "5.4",
+          "eclairage": true,
+          "altitude": {
+            "min": 1038,
+            "max": 1993
+          }
+        },
+        {
+          "nom": "Diable 1",
+          "niveau": "vert",
+          "longueur": "12.3",
+          "eclairage": false,
+          "altitude": {
+            "min": 964,
+            "max": 1160
+          }
+        },
+        {
+          "nom": "Glacier 4",
+          "niveau": "noir",
+          "longueur": "1.1",
+          "eclairage": false,
+          "altitude": {
+            "min": 933,
+            "max": 2048
+          }
+        },
+        {
+          "nom": "Tétras 1",
+          "niveau": "bleu",
+          "longueur": "1.7",
+          "eclairage": false,
+          "altitude": {
+            "min": 921,
+            "max": 2285
+          }
+        }
+      ],
+      "pisteurs": ["5bfec1f8436bdec816cf69f4", "5bfec1f876c15bd9f768a0ce", "5bfec1f8a8fc233447015691", "5bfec1f832906c1a19432773", "5bfec1f8d51c0c1fe51ac738", "5bfec1f81257c40647c6fb03", "5bfec1f8450943d145a2ba6e", "5bfec1f8566358652d026e05", "5bfec1f814f98d859ff7fa5a", "5bfec1f89a80f927accd9a2c"],
+      "enneigementStation": 85,
+      "enneigementSommet": 155,
+      "remonteesMecaniques": [
+        {
+          "nom": "Pralong",
+          "type": "Télésiège",
+          "dateMiseEnService": ISODate("2011-11-09T00:00:00Z"),
+          "employe_id": "5bfec1095b5227d132844453"
+        },
+        {
+          "nom": "Loze",
+          "type": "Télésiège",
+          "dateMiseEnService": ISODate("2015-10-18T00:00:00Z"),
+          "employe_id": "5bfec109dbda7d0f228ac867"
+        },
+        {
+          "nom": "Pralong",
+          "type": "Cabine",
+          "dateMiseEnService": ISODate("2015-02-20T00:00:00Z"),
+          "employe_id": "5bfec1099f04197b781787e3"
+        },
+        {
+          "nom": "Loze",
+          "type": "Téléski",
+          "dateMiseEnService": ISODate("2012-07-19T00:00:00Z"),
+          "employe_id": "5bfec109e1870df1c1723b19"
+        },
+        {
+          "nom": "Morel",
+          "type": "Télésiège",
+          "dateMiseEnService": ISODate("2018-09-12T00:00:00Z"),
+          "employe_id": "5bfec109a29442b1de8e4150"
+        },
+        {
+          "nom": "Combes",
+          "type": "Télésiège",
+          "dateMiseEnService": ISODate("2013-05-02T00:00:00Z"),
+          "employe_id": "5bfec1094379e5ac26185ce6"
+        },
+        {
+          "nom": "Combes",
+          "type": "Téléski",
+          "dateMiseEnService": ISODate("2014-12-07T00:00:00Z"),
+          "employe_id": "5bfec109bcdc35a41355c612"
+        },
+        {
+          "nom": "Verdons",
+          "type": "Téléski",
+          "dateMiseEnService": ISODate("2012-08-13T00:00:00Z"),
+          "employe_id": "5bfec109ad10b49457bee2df"
+        },
+        {
+          "nom": "Dou des lanches",
+          "type": "Téléski",
+          "dateMiseEnService": ISODate("2016-06-07T00:00:00Z"),
+          "employe_id": "5bfec109b718b6c55a001a4f"
+        },
+        {
+          "nom": "Loze",
+          "type": "Téléski",
+          "dateMiseEnService": ISODate("2014-06-19T00:00:00Z"),
+          "employe_id": "5bfec1093c6795690e0df623"
+        }
+      ]
+    }
+    {
+    "_id": "5bfed2e9dddcab945a341397",
+    "nom": "Font-Romeu",
+    "massif": "Pyrénées",
+    "prixForfait": 51,
+    "heureOuverture": 9,
+    "heureFermeture": 16,
+    "altitudeMin": 1700,
+    "altitudeMax": 2250,
+    "pistes": [
+      {
+        "nom": "Alouette 5",
+        "niveau": "bleu",
+        "longueur": "14.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1704,
+          "max": 1850
+        }
+      },
+      {
+        "nom": "Alouette 5",
+        "niveau": "vert",
+        "longueur": "10.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1899,
+          "max": 2004
+        }
+      },
+      {
+        "nom": "Grandes combes 3",
+        "niveau": "vert",
+        "longueur": "5.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1733,
+          "max": 1739
+        }
+      },
+      {
+        "nom": "Demoiselles 4",
+        "niveau": "noir",
+        "longueur": "6.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1712,
+          "max": 1980
+        }
+      },
+      {
+        "nom": "Sources 3",
+        "niveau": "vert",
+        "longueur": "14.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1864,
+          "max": 1873
+        }
+      },
+      {
+        "nom": "Le mur 5",
+        "niveau": "noir",
+        "longueur": "7.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 1849,
+          "max": 1872
+        }
+      },
+      {
+        "nom": "Bouc 3",
+        "niveau": "rouge",
+        "longueur": "7.5",
+        "eclairage": false,
+        "altitude": {
+          "min": 1898,
+          "max": 2235
+        }
+      },
+      {
+        "nom": "Pic bleu 5",
+        "niveau": "noir",
+        "longueur": "5.5",
+        "eclairage": false,
+        "altitude": {
+          "min": 1786,
+          "max": 1934
+        }
+      },
+      {
+        "nom": "Petites combes 3",
+        "niveau": "rouge",
+        "longueur": "1.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1888,
+          "max": 1903
+        }
+      },
+      {
+        "nom": "Biche 2",
+        "niveau": "vert",
+        "longueur": "5.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 1722,
+          "max": 2227
+        }
+      },
+      {
+        "nom": "Marmotte 2",
+        "niveau": "noir",
+        "longueur": "6.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1862,
+          "max": 2164
+        }
+      },
+      {
+        "nom": "Bouc 3",
+        "niveau": "bleu",
+        "longueur": "12.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 1744,
+          "max": 1961
+        }
+      },
+      {
+        "nom": "Sources 3",
+        "niveau": "bleu",
+        "longueur": "4.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 1751,
+          "max": 1776
+        }
+      },
+      {
+        "nom": "Vallée blanche 4",
+        "niveau": "vert",
+        "longueur": "8.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 1890,
+          "max": 2154
+        }
+      },
+      {
+        "nom": "Marmotte 2",
+        "niveau": "vert",
+        "longueur": "6.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1877,
+          "max": 2072
+        }
+      },
+      {
+        "nom": "Glacier 5",
+        "niveau": "bleu",
+        "longueur": "1.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1827,
+          "max": 2017
+        }
+      },
+      {
+        "nom": "Chamois 5",
+        "niveau": "bleu",
+        "longueur": "9.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1867,
+          "max": 2190
+        }
+      },
+      {
+        "nom": "Fée 2",
+        "niveau": "noir",
+        "longueur": "13.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1842,
+          "max": 2213
+        }
+      },
+      {
+        "nom": "Bellecombes 3",
+        "niveau": "vert",
+        "longueur": 12,
+        "eclairage": true,
+        "altitude": {
+          "min": 1840,
+          "max": 1960
+        }
+      },
+      {
+        "nom": "Tétras 5",
+        "niveau": "bleu",
+        "longueur": "13.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1841,
+          "max": 2132
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f8349568e2d9715086", "5bfec1f8b79804b0764d0b15", "5bfec1f867cee66506948de0", "5bfec1f8aaf2a48022022de7", "5bfec1f8a3a81e55191a018d", "5bfec1f8338edac1cfd37394", "5bfec1f8e96dfb87dd8cc1c9"],
+    "enneigementStation": 63,
+    "enneigementSommet": 217,
+    "remonteesMecaniques": [
+      {
+        "nom": "Saulire express",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2010-09-13T00:00:00Z"),
+        "employe_id": "5bfec109271a4d20b6ef46f8"
+      },
+      {
+        "nom": "Platières",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-08-14T00:00:00Z"),
+        "employe_id": "5bfec109cc9f5a9ba524b490"
+      },
+      {
+        "nom": "Combes",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2014-09-13T00:00:00Z"),
+        "employe_id": "5bfec1094fc22808d55df425"
+      },
+      {
+        "nom": "Platières",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-05-05T00:00:00Z"),
+        "employe_id": "5bfec1098fc4f7c207b2f885"
+      },
+      {
+        "nom": "Epicea",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2016-05-09T00:00:00Z"),
+        "employe_id": "5bfec1097563286456f8a0ed"
+      }
+    ]
+  }
+  {
+    "_id": "5bfed357eb97c9654923f38b",
+    "nom": "Gourette",
+    "massif": "Pyrénées",
+    "prixForfait": 39,
+    "heureOuverture": 8,
+    "heureFermeture": 17,
+    "altitudeMin": 1600,
+    "altitudeMax": 2450,
+    "pistes": [
+      {
+        "nom": "Alouette 2",
+        "niveau": "bleu",
+        "longueur": "9.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1897,
+          "max": 2054
+        }
+      },
+      {
+        "nom": "Bouc 2",
+        "niveau": "vert",
+        "longueur": "6.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 1870,
+          "max": 1901
+        }
+      },
+      {
+        "nom": "Le mur 1",
+        "niveau": "vert",
+        "longueur": "8.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 1618,
+          "max": 2398
+        }
+      },
+      {
+        "nom": "Pic bleu 4",
+        "niveau": "bleu",
+        "longueur": "1.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1896,
+          "max": 2078
+        }
+      },
+      {
+        "nom": "Belvédère 3",
+        "niveau": "vert",
+        "longueur": "13.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1612,
+          "max": 2182
+        }
+      },
+      {
+        "nom": "Belvédère 4",
+        "niveau": "rouge",
+        "longueur": "0.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1775,
+          "max": 2365
+        }
+      },
+      {
+        "nom": "Marmotte 4",
+        "niveau": "noir",
+        "longueur": "6.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 1749,
+          "max": 1839
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "rouge",
+        "longueur": "5.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1714,
+          "max": 2309
+        }
+      },
+      {
+        "nom": "Pic bleu 4",
+        "niveau": "vert",
+        "longueur": "1.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1807,
+          "max": 2221
+        }
+      },
+      {
+        "nom": "Bosses 3",
+        "niveau": "vert",
+        "longueur": 9,
+        "eclairage": true,
+        "altitude": {
+          "min": 1660,
+          "max": 1953
+        }
+      },
+      {
+        "nom": "Petites combes 2",
+        "niveau": "bleu",
+        "longueur": "8.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1626,
+          "max": 1953
+        }
+      },
+      {
+        "nom": "Petites combes 3",
+        "niveau": "vert",
+        "longueur": "11.5",
+        "eclairage": true,
+        "altitude": {
+          "min": 1617,
+          "max": 1751
+        }
+      },
+      {
+        "nom": "Tétras 3",
+        "niveau": "bleu",
+        "longueur": "14.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 1702,
+          "max": 2058
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "bleu",
+        "longueur": "9.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1763,
+          "max": 1843
+        }
+      },
+      {
+        "nom": "Bouc 4",
+        "niveau": "rouge",
+        "longueur": "6.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 1764,
+          "max": 2370
+        }
+      },
+      {
+        "nom": "Marmotte 4",
+        "niveau": "bleu",
+        "longueur": "13.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 1766,
+          "max": 1776
+        }
+      },
+      {
+        "nom": "Mouflon 5",
+        "niveau": "noir",
+        "longueur": "10.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 1883,
+          "max": 2155
+        }
+      },
+      {
+        "nom": "Lac blanc 5",
+        "niveau": "noir",
+        "longueur": 3,
+        "eclairage": true,
+        "altitude": {
+          "min": 1742,
+          "max": 2353
+        }
+      },
+      {
+        "nom": "Bosses 2",
+        "niveau": "noir",
+        "longueur": "3.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1632,
+          "max": 2141
+        }
+      },
+      {
+        "nom": "Belvédère 3",
+        "niveau": "bleu",
+        "longueur": "5.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 1773,
+          "max": 2435
+        }
+      },
+      {
+        "nom": "Glacier 1",
+        "niveau": "bleu",
+        "longueur": "9.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 1650,
+          "max": 1952
+        }
+      },
+      {
+        "nom": "Alouette 5",
+        "niveau": "bleu",
+        "longueur": "7.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 1600,
+          "max": 2329
+        }
+      },
+      {
+        "nom": "Mouflon 4",
+        "niveau": "noir",
+        "longueur": 7,
+        "eclairage": false,
+        "altitude": {
+          "min": 1669,
+          "max": 2228
+        }
+      },
+      {
+        "nom": "Demoiselles 2",
+        "niveau": "vert",
+        "longueur": "11.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 1730,
+          "max": 1956
+        }
+      },
+      {
+        "nom": "Bellecombes 5",
+        "niveau": "bleu",
+        "longueur": "1.6",
+        "eclairage": false,
+        "altitude": {
+          "min": 1717,
+          "max": 2326
+        }
+      },
+      {
+        "nom": "Bouc blanc 4",
+        "niveau": "noir",
+        "longueur": "10.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 1627,
+          "max": 2126
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f8e003fbfe1a3e7a1d", "5bfec1f80aedc4bd03f3b95d", "5bfec1f8591398b9b5bf965c", "5bfec1f863c60463dbf64254", "5bfec1f868958738d49f07e5", "5bfec1f866545929f2f84665", "5bfec1f8747c8934db9ba806"],
+    "enneigementStation": 92,
+    "enneigementSommet": 375,
+    "remonteesMecaniques": [
+      {
+        "nom": "Loze",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-02-10T00:00:00Z"),
+        "employe_id": "5bfec109474e92464f9eab3b"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2013-07-08T00:00:00Z"),
+        "employe_id": "5bfec109474e92464f9eab3b"
+      },
+      {
+        "nom": "Combes",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2012-06-18T00:00:00Z"),
+        "employe_id": "5bfec10966b6afc71f5e76f9"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2014-10-18T00:00:00Z"),
+        "employe_id": "5bfec109091e3dbe49509838"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2016-06-02T00:00:00Z"),
+        "employe_id": "5bfec109d9546fef0b2c8f19"
+      },
+      {
+        "nom": "Combes",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2011-07-17T00:00:00Z"),
+        "employe_id": "5bfec109870894a2fa3d1dff"
+      },
+      {
+        "nom": "Aiguille",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2010-03-22T00:00:00Z"),
+        "employe_id": "5bfec109686dedd1629a4983"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2017-05-04T00:00:00Z"),
+        "employe_id": "5bfec1096dcb61403d1d1af6"
+      }
+    ]
+  }
+  {
+    "_id": "5bfed406620197753593f4c0",
+    "nom": "Courchevel",
+    "massif": "Alpes",
+    "prixForfait": 46,
+    "heureOuverture": 8,
+    "heureFermeture": 17,
+    "altitudeMin": 1500,
+    "altitudeMax": 2750,
+    "pistes": [
+      {
+        "nom": "Renard 1",
+        "niveau": "noir",
+        "longueur": "12.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 1958,
+          "max": 2112
+        }
+      },
+      {
+        "nom": "Tétras 2",
+        "niveau": "noir",
+        "longueur": "7.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 1729,
+          "max": 2680
+        }
+      },
+      {
+        "nom": "Mouflon 4",
+        "niveau": "bleu",
+        "longueur": "9.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1875,
+          "max": 1980
+        }
+      },
+      {
+        "nom": "Niverolle 4",
+        "niveau": "rouge",
+        "longueur": "6.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1989,
+          "max": 2305
+        }
+      },
+      {
+        "nom": "Mouflon 5",
+        "niveau": "rouge",
+        "longueur": "10.5",
+        "eclairage": true,
+        "altitude": {
+          "min": 1629,
+          "max": 1658
+        }
+      },
+      {
+        "nom": "Niverolle 4",
+        "niveau": "bleu",
+        "longueur": 8,
+        "eclairage": true,
+        "altitude": {
+          "min": 1857,
+          "max": 2377
+        }
+      },
+      {
+        "nom": "Diable 3",
+        "niveau": "vert",
+        "longueur": 15,
+        "eclairage": false,
+        "altitude": {
+          "min": 1631,
+          "max": 2542
+        }
+      },
+      {
+        "nom": "Renard 3",
+        "niveau": "noir",
+        "longueur": "4.6",
+        "eclairage": false,
+        "altitude": {
+          "min": 1636,
+          "max": 1714
+        }
+      },
+      {
+        "nom": "Mouflon 1",
+        "niveau": "bleu",
+        "longueur": "4.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1540,
+          "max": 2407
+        }
+      },
+      {
+        "nom": "Marmotte 3",
+        "niveau": "noir",
+        "longueur": 14,
+        "eclairage": false,
+        "altitude": {
+          "min": 1650,
+          "max": 1798
+        }
+      },
+      {
+        "nom": "Bosses 4",
+        "niveau": "vert",
+        "longueur": "9.4",
+        "eclairage": false,
+        "altitude": {
+          "min": 1859,
+          "max": 2023
+        }
+      },
+      {
+        "nom": "Petites combes 5",
+        "niveau": "rouge",
+        "longueur": "14.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1721,
+          "max": 1850
+        }
+      },
+      {
+        "nom": "Diable 5",
+        "niveau": "rouge",
+        "longueur": "10.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 1871,
+          "max": 2222
+        }
+      },
+      {
+        "nom": "Glacier 2",
+        "niveau": "rouge",
+        "longueur": "12.6",
+        "eclairage": false,
+        "altitude": {
+          "min": 1895,
+          "max": 2296
+        }
+      },
+      {
+        "nom": "Creux 5",
+        "niveau": "vert",
+        "longueur": "13.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1672,
+          "max": 2313
+        }
+      },
+      {
+        "nom": "Grandes combes 3",
+        "niveau": "bleu",
+        "longueur": "5.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 1745,
+          "max": 2059
+        }
+      },
+      {
+        "nom": "Biche 3",
+        "niveau": "bleu",
+        "longueur": 3,
+        "eclairage": true,
+        "altitude": {
+          "min": 1860,
+          "max": 2448
+        }
+      },
+      {
+        "nom": "Marmotte 4",
+        "niveau": "vert",
+        "longueur": 8,
+        "eclairage": false,
+        "altitude": {
+          "min": 1626,
+          "max": 1691
+        }
+      },
+      {
+        "nom": "Grandes combes 2",
+        "niveau": "rouge",
+        "longueur": "3.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 1590,
+          "max": 2515
+        }
+      },
+      {
+        "nom": "Marmotte 4",
+        "niveau": "vert",
+        "longueur": "14.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 1919,
+          "max": 2413
+        }
+      },
+      {
+        "nom": "Lac blanc 5",
+        "niveau": "rouge",
+        "longueur": "2.3",
+        "eclairage": true,
+        "altitude": {
+          "min": 1875,
+          "max": 2316
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f818c2e437d36e51bb", "5bfec1f8df0081e39af189c4", "5bfec1f8688b0f94eb431a35", "5bfec1f87c27ab6bed26ebc5", "5bfec1f8e81b461e724b61ab", "5bfec1f8b0ee1f1a3556200b", "5bfec1f8afb78dcf22777c7c", "5bfec1f8b90af412119c5f98", "5bfec1f801d657e4f111e9cb", "5bfec1f8f0045f5f13bd658e", "5bfec1f8170a65f0edb2cc6c"],
+    "enneigementStation": 89,
+    "enneigementSommet": 342,
+    "remonteesMecaniques": [
+      {
+        "nom": "Saulire express",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2012-07-06T00:00:00Z"),
+        "employe_id": "5bfec1099144aadea9230442"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2017-04-03T00:00:00Z"),
+        "employe_id": "5bfec109705b579f606c833a"
+      },
+      {
+        "nom": "Platières",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-04-26T00:00:00Z"),
+        "employe_id": "5bfec109ccff40d563cab9f4"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2013-04-07T00:00:00Z"),
+        "employe_id": "5bfec1091919ecccc0bb1c76"
+      },
+      {
+        "nom": "Loze",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2018-05-08T00:00:00Z"),
+        "employe_id": "5bfec1094a74ab2a231191b1"
+      },
+      {
+        "nom": "Platières",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2016-05-05T00:00:00Z"),
+        "employe_id": "5bfec10976b408e99804b91b"
+      }
+    ]
+  }
+  {
+    "_id": "5bfed4f7340cac3dc49db88c",
+    "nom": "Ventron",
+    "massif": "Vosges",
+    "prixForfait": 42,
+    "heureOuverture": 10,
+    "heureFermeture": 18,
+    "altitudeMin": 806,
+    "altitudeMax": 1121,
+    "pistes": [
+      {
+        "nom": "Lac blanc 2",
+        "niveau": "vert",
+        "longueur": "1.1",
+        "eclairage": false,
+        "altitude": {
+          "min": 839,
+          "max": 964
+        }
+      },
+      {
+        "nom": "Côtes 1",
+        "niveau": "vert",
+        "longueur": "4.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 843,
+          "max": 943
+        }
+      },
+      {
+        "nom": "Demoiselles 5",
+        "niveau": "vert",
+        "longueur": "6.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 868,
+          "max": 954
+        }
+      },
+      {
+        "nom": "Marmotte 2",
+        "niveau": "bleu",
+        "longueur": "13.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 820,
+          "max": 902
+        }
+      },
+      {
+        "nom": "Pic bleu 2",
+        "niveau": "bleu",
+        "longueur": "4.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 830,
+          "max": 1034
+        }
+      },
+      {
+        "nom": "Bouc 2",
+        "niveau": "vert",
+        "longueur": "7.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 843,
+          "max": 980
+        }
+      },
+      {
+        "nom": "Diable 3",
+        "niveau": "vert",
+        "longueur": "10.1",
+        "eclairage": true,
+        "altitude": {
+          "min": 814,
+          "max": 1043
+        }
+      },
+      {
+        "nom": "Bosses 2",
+        "niveau": "rouge",
+        "longueur": "8.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 850,
+          "max": 1011
+        }
+      },
+      {
+        "nom": "Renard 2",
+        "niveau": "rouge",
+        "longueur": "10.9",
+        "eclairage": false,
+        "altitude": {
+          "min": 829,
+          "max": 932
+        }
+      },
+      {
+        "nom": "Alouette 5",
+        "niveau": "vert",
+        "longueur": "7.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 864,
+          "max": 976
+        }
+      },
+      {
+        "nom": "Bosses 3",
+        "niveau": "rouge",
+        "longueur": "6.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 819,
+          "max": 1001
+        }
+      }
+    ],
+    "pisteurs": ["5bfec1f820ed3788cb3b1a45", "5bfec1f8eac155303bce8aac", "5bfec1f82d3971378c6eafbd", "5bfec1f852f1d0c36be7121b", "5bfec1f82bdc83830f49001a", "5bfec1f889a0a01071a1d2a7"],
+    "enneigementStation": 148,
+    "enneigementSommet": 311,
+    "remonteesMecaniques": [
+      {
+        "nom": "Epicea",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2017-03-07T00:00:00Z"),
+        "employe_id": "5bfec109a6eaa0d6a40fb072"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2013-08-29T00:00:00Z"),
+        "employe_id": "5bfec109a6eaa0d6a40fb072"
+      },
+      {
+        "nom": "Morel",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2013-03-26T00:00:00Z"),
+        "employe_id": "5bfec109d9a49a26b44dbae1"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2014-08-12T00:00:00Z"),
+        "employe_id": "5bfec10901fd5ac15ed9f966"
+      },
+      {
+        "nom": "Verdons",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2011-05-26T00:00:00Z"),
+        "employe_id": "5bfec1093f634b9fe0a35fbd"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2014-01-17T00:00:00Z"),
+        "employe_id": "5bfec10983d140d8b10a9f03"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2017-01-17T00:00:00Z"),
+        "employe_id": "5bfec109d6ad3fdcbb8f9296"
+      }
+    ]
+  }
+  {
+  "_id": "5bfed6145b0b68608610d72f",
+  "nom": "Chalmazel",
+  "massif": "Massif Central",
+  "prixForfait": 16,
+  "heureOuverture": 10,
+  "heureFermeture": 17,
+  "altitudeMin": 1100,
+  "altitudeMax": 1645,
+  "pistes": [
+    {
+      "nom": "Fée 1",
+      "niveau": "vert",
+      "longueur": "2.7",
+      "eclairage": false,
+      "altitude": {
+        "min": 1159,
+        "max": 1392
+      }
+    },
+    {
+      "nom": "Le mur 5",
+      "niveau": "rouge",
+      "longueur": "14.5",
+      "eclairage": false,
+      "altitude": {
+        "min": 1143,
+        "max": 1182
+      }
+    },
+    {
+      "nom": "Bosses 4",
+      "niveau": "bleu",
+      "longueur": "9.1",
+      "eclairage": true,
+      "altitude": {
+        "min": 1131,
+        "max": 1267
+      }
+    },
+    {
+      "nom": "Creux 2",
+      "niveau": "noir",
+      "longueur": "14.9",
+      "eclairage": true,
+      "altitude": {
+        "min": 1161,
+        "max": 1259
+      }
+    },
+    {
+      "nom": "Mouflon 3",
+      "niveau": "vert",
+      "longueur": "6.4",
+      "eclairage": false,
+      "altitude": {
+        "min": 1153,
+        "max": 1311
+      }
+    }
+  ],
+  "pisteurs": ["5bfec1f89eb5f51c37a5073e", "5bfec1f8ea4f4641666bf4ec", "5bfec1f88e0a5a2111134494", "5bfec1f8ab494561e8ab221a", "5bfec1f8fdfa8a3586db1a3b", "5bfec1f8fed33f7e03217f4a"],
+  "enneigementStation": 74,
+  "enneigementSommet": 261,
+  "remonteesMecaniques": [
+    {
+      "nom": "Platières",
+      "type": "Télésiège",
+      "dateMiseEnService": ISODate("2015-01-15T00:00:00Z"),
+      "employe_id": "5bfec1095685328932938249"
+    },
+    {
+      "nom": "Loze",
+      "type": "Téléski",
+      "dateMiseEnService": ISODate("2015-06-26T00:00:00Z"),
+      "employe_id": "5bfec109c636dada5c6d310c"
+    }
+  ]
+}
+{
+    "_id": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Tignes",
+    "massif": "Massif Central",
+    "prixForfait": 49,
+    "heureOuverture": 10,
+    "heureFermeture": 16,
+    "altitudeMin": 1841,
+    "altitudeMax": 3656,
+    "pistes": [
+      {
+        "nom": "Goulet 3",
+        "niveau": "rouge",
+        "longueur": "13.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1863,
+          "max": 1968
+        }
+      },
+      {
+        "nom": "Signal 3",
+        "niveau": "noir",
+        "longueur": "14.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2610,
+          "max": 2850
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "bleu",
+        "longueur": "5.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 2155,
+          "max": 3338
+        }
+      },
+      {
+        "nom": "Grandes combes 1",
+        "niveau": "bleu",
+        "longueur": "9.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 2556,
+          "max": 3091
+        }
+      },
+      {
+        "nom": "Diable 3",
+        "niveau": "rouge",
+        "longueur": "5.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 2169,
+          "max": 2195
+        }
+      },
+      {
+        "nom": "Tétras 1",
+        "niveau": "rouge",
+        "longueur": "14.2",
+        "eclairage": false,
+        "altitude": {
+          "min": 2456,
+          "max": 2636
+        }
+      },
+      {
+        "nom": "Diable 1",
+        "niveau": "vert",
+        "longueur": "11.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 2480,
+          "max": 2603
+        }
+      },
+      {
+        "nom": "Mouflon 3",
+        "niveau": "rouge",
+        "longueur": "13.5",
+        "eclairage": true,
+        "altitude": {
+          "min": 2531,
+          "max": 3070
+        }
+      },
+      {
+        "nom": "Demoiselles 1",
+        "niveau": "rouge",
+        "longueur": "5.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 2132,
+          "max": 2294
+        }
+      },
+      {
+        "nom": "Glacier 1",
+        "niveau": "vert",
+        "longueur": "6.8",
+        "eclairage": true,
+        "altitude": {
+          "min": 2291,
+          "max": 3630
+        }
+      },
+      {
+        "nom": "Chamois 1",
+        "niveau": "vert",
+        "longueur": "6.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2115,
+          "max": 2675
+        }
+      },
+      {
+        "nom": "Vallée blanche 3",
+        "niveau": "vert",
+        "longueur": "1.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 2404,
+          "max": 3297
+        }
+      },
+      {
+        "nom": "Le mur 1",
+        "niveau": "vert",
+        "longueur": "5.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 2408,
+          "max": 2881
+        }
+      },
+      {
+        "nom": "Fée 1",
+        "niveau": "noir",
+        "longueur": "5.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2650,
+          "max": 3276
+        }
+      },
+      {
+        "nom": "Bouc blanc 2",
+        "niveau": "noir",
+        "longueur": "7.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2576,
+          "max": 3483
+        }
+      },
+      {
+        "nom": "Vallée blanche 2",
+        "niveau": "bleu",
+        "longueur": "11.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 2087,
+          "max": 2233
+        }
+      },
+      {
+        "nom": "Signal 5",
+        "niveau": "noir",
+        "longueur": "4.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 2445,
+          "max": 2706
+        }
+      },
+      {
+        "nom": "Signal 5",
+        "niveau": "vert",
+        "longueur": "14.4",
+        "eclairage": false,
+        "altitude": {
+          "min": 1927,
+          "max": 3303
+        }
+      },
+      {
+        "nom": "Petites combes 3",
+        "niveau": "noir",
+        "longueur": "11.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 2602,
+          "max": 2668
+        }
+      },
+      {
+        "nom": "Bouc 5",
+        "niveau": "rouge",
+        "longueur": "7.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1860,
+          "max": 2162
+        }
+      },
+      {
+        "nom": "Pic bleu 1",
+        "niveau": "rouge",
+        "longueur": "2.1",
+        "eclairage": true,
+        "altitude": {
+          "min": 2451,
+          "max": 3287
+        }
+      },
+      {
+        "nom": "Biche 3",
+        "niveau": "vert",
+        "longueur": "11.5",
+        "eclairage": true,
+        "altitude": {
+          "min": 1874,
+          "max": 3274
+        }
+      },
+      {
+        "nom": "Marmotte 4",
+        "niveau": "noir",
+        "longueur": "9.3",
+        "eclairage": false,
+        "altitude": {
+          "min": 2411,
+          "max": 2955
+        }
+      },
+      {
+        "nom": "Bouc blanc 5",
+        "niveau": "rouge",
+        "longueur": "3.7",
+        "eclairage": false,
+        "altitude": {
+          "min": 2013,
+          "max": 3365
+        }
+      },
+      {
+        "nom": "Mouflon 2",
+        "niveau": "bleu",
+        "longueur": 7,
+        "eclairage": true,
+        "altitude": {
+          "min": 2289,
+          "max": 2316
+        }
+      },
+      {
+        "nom": "Creux 3",
+        "niveau": "noir",
+        "longueur": "11.2",
+        "eclairage": true,
+        "altitude": {
+          "min": 2633,
+          "max": 3402
+        }
+      },
+      {
+        "nom": "Signal 3",
+        "niveau": "noir",
+        "longueur": "14.5",
+        "eclairage": false,
+        "altitude": {
+          "min": 2472,
+          "max": 3537
+        }
+      },
+      {
+        "nom": "Côtes 1",
+        "niveau": "noir",
+        "longueur": "14.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 2340,
+          "max": 2343
+        }
+      },
+      {
+        "nom": "Bellecombes 2",
+        "niveau": "bleu",
+        "longueur": "5.5",
+        "eclairage": false,
+        "altitude": {
+          "min": 2561,
+          "max": 3060
+        }
+      },
+      {
+        "nom": "Tétras 1",
+        "niveau": "vert",
+        "longueur": "11.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 2658,
+          "max": 2907
+        }
+      },
+      {
+        "nom": "Diable 4",
+        "niveau": "noir",
+        "longueur": "13.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 2453,
+          "max": 3279
+        }
+      },
+      {
+        "nom": "Signal 5",
+        "niveau": "noir",
+        "longueur": "5.6",
+        "eclairage": true,
+        "altitude": {
+          "min": 2131,
+          "max": 3164
+        }
+      },
+      {
+        "nom": "Glacier 1",
+        "niveau": "vert",
+        "longueur": "10.5",
+        "eclairage": true,
+        "altitude": {
+          "min": 2528,
+          "max": 2846
+        }
+      },
+      {
+        "nom": "Belvédère 4",
+        "niveau": "noir",
+        "longueur": 10,
+        "eclairage": false,
+        "altitude": {
+          "min": 2203,
+          "max": 3624
+        }
+      },
+      {
+        "nom": "Biche 4",
+        "niveau": "bleu",
+        "longueur": "7.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 2412,
+          "max": 2567
+        }
+      },
+      {
+        "nom": "Le mur 3",
+        "niveau": "vert",
+        "longueur": "10.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 2277,
+          "max": 3262
+        }
+      },
+      {
+        "nom": "Alouette 4",
+        "niveau": "noir",
+        "longueur": "4.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 2639,
+          "max": 3220
+        }
+      },
+      {
+        "nom": "Le mur 2",
+        "niveau": "vert",
+        "longueur": "11.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2659,
+          "max": 3335
+        }
+      },
+      {
+        "nom": "Tétras 1",
+        "niveau": "bleu",
+        "longueur": "3.8",
+        "eclairage": false,
+        "altitude": {
+          "min": 2170,
+          "max": 2234
+        }
+      },
+      {
+        "nom": "Niverolle 3",
+        "niveau": "bleu",
+        "longueur": "2.9",
+        "eclairage": true,
+        "altitude": {
+          "min": 2395,
+          "max": 3076
+        }
+      },
+      {
+        "nom": "Tétras 2",
+        "niveau": "bleu",
+        "longueur": "9.7",
+        "eclairage": true,
+        "altitude": {
+          "min": 1914,
+          "max": 2353
+        }
+      },
+      {
+        "nom": "Bosses 5",
+        "niveau": "bleu",
+        "longueur": "5.4",
+        "eclairage": true,
+        "altitude": {
+          "min": 1913,
+          "max": 2757
+        }
+      }
+    ],
+    "pisteurs": ["5bfec109394b2de44401237a", "5bfec10948179c8e2e1b6c98", "5bfec1093cc8f825f96722dd", "5bfec1092ea8be300e44c81b", "5bfec1095fdf5703d01cd6c1", "5bfec109c0c8c2687c8ddf53", "5bfec1093cdffed86f22f77b", "5bfec1094c85a09ba2737548", "5bfec1093038dda7af837cc3", "5bfec1094be71ff7a2f38c49", "5bfec109eb2f930ba4187e1a", "5bfec109d7e7ffa79f89d199", "5bfec1f824948276e8b265f3", "5bfec1f836d413740866507c"],
+    "enneigementStation": 60,
+    "enneigementSommet": 210,
+    "remonteesMecaniques": [
+      {
+        "nom": "Pralong",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2018-09-20T00:00:00Z"),
+        "employe_id": "5bfec109512d88b7d8ded51d"
+      },
+      {
+        "nom": "Morel",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-01-13T00:00:00Z"),
+        "employe_id": "5bfec109b8172c6a5dea81b9"
+      },
+      {
+        "nom": "Combes",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-10-30T00:00:00Z"),
+        "employe_id": "5bfec109675fa2c437582975"
+      },
+      {
+        "nom": "Bruyères",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2018-07-15T00:00:00Z"),
+        "employe_id": "5bfec109d1ea6070b36d3e73"
+      },
+      {
+        "nom": "Dou des lanches",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2015-12-16T00:00:00Z"),
+        "employe_id": "5bfec10939691e58287ac270"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2011-09-09T00:00:00Z"),
+        "employe_id": "5bfec109453c406e226f9ac8"
+      },
+      {
+        "nom": "Morel",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2011-09-16T00:00:00Z"),
+        "employe_id": "5bfec109ecf8151a7acf2237"
+      },
+      {
+        "nom": "Dou des lanches",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2015-09-08T00:00:00Z"),
+        "employe_id": "5bfec1096c8311be70b5cdb7"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2016-11-06T00:00:00Z"),
+        "employe_id": "5bfec109820351ce8c187867"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2010-06-06T00:00:00Z"),
+        "employe_id": "5bfec109fa34963d2e61dd45"
+      },
+      {
+        "nom": "Signal",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-06-26T00:00:00Z"),
+        "employe_id": "5bfec109723e872292237abe"
+      },
+      {
+        "nom": "Morel",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2014-06-01T00:00:00Z"),
+        "employe_id": "5bfec1094b44f4cdf758ce20"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2018-09-10T00:00:00Z"),
+        "employe_id": "5bfec1094b44f4cdf758ce20"
+      },
+      {
+        "nom": "Combes",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2017-05-23T00:00:00Z"),
+        "employe_id": "5bfec10976146da50863fb97"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2012-01-15T00:00:00Z"),
+        "employe_id": "5bfec10990c3654ba05c1155"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2015-07-02T00:00:00Z"),
+        "employe_id": "5bfec109d759e0c20306d2e2"
+      },
+      {
+        "nom": "Morel",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2018-06-17T00:00:00Z"),
+        "employe_id": "5bfec109b660cf573f993b9b"
+      },
+      {
+        "nom": "Tougnettes",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2013-02-14T00:00:00Z"),
+        "employe_id": "5bfec109c8aab3562be5ad0b"
+      },
+      {
+        "nom": "Saulire express",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2017-02-01T00:00:00Z"),
+        "employe_id": "5bfec109c3449bc2404b0c20"
+      },
+      {
+        "nom": "Epicea",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2013-09-19T00:00:00Z"),
+        "employe_id": "5bfec109a6b2bcd03820c799"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2010-02-11T00:00:00Z"),
+        "employe_id": "5bfec109ad297164b258cd72"
+      },
+      {
+        "nom": "Pralong",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2010-06-21T00:00:00Z"),
+        "employe_id": "5bfec1094944b056f0e5c741"
+      },
+      {
+        "nom": "Verdons",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2012-04-22T00:00:00Z"),
+        "employe_id": "5bfec1091b73bde130704517"
+      },
+      {
+        "nom": "Combes",
+        "type": "Téléski",
+        "dateMiseEnService": ISODate("2013-06-13T00:00:00Z"),
+        "employe_id": "5bfec109a1c6ae1df37e719b"
+      },
+      {
+        "nom": "Verdons",
+        "type": "Télésiège",
+        "dateMiseEnService": ISODate("2016-06-12T00:00:00Z"),
+        "employe_id": "5bfec1091320d10076f2a3b5"
+      },
+      {
+        "nom": "Tovets",
+        "type": "Cabine",
+        "dateMiseEnService": ISODate("2014-02-17T00:00:00Z"),
+        "employe_id": "5bfec109eab8af200aba69ac"
+      }
+    ]
+  }

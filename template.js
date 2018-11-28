@@ -2,7 +2,7 @@
 
 [
   {
-    'repeat(19, 20)':
+    'repeat(100, 100)':
     {
       _id: '{{objectId()}}',
       age: '{{integer(24, 60)}}',
@@ -10,7 +10,7 @@
       prenom: '{{surname()}}',
       gender: '{{random("H", "F")}}',
       address: '{{integer(100, 999)}} {{street()}}, {{city()}}',
-      embauche: 'Date({{ moment(this.date(new Date(2010, 0, 1), new Date())).format("YYYY-MM-DD") }})'
+      embauche: '{{ moment(this.date(new Date(2010, 0, 1), new Date())).format("YYYY-MM-DD") }}T00:00:00Z'
     }
   }
 ]
@@ -19,7 +19,7 @@
 
 [
   {
-    'repeat(2, 5)': {
+    'repeat(10, 10)': {
       _id: '{{objectId()}}',
       nom: 'Val Thorens',
       massif: '{{random("Alpes", "Pyrénées", "Massif central", "Vosges")}}',
@@ -61,7 +61,8 @@
               return noms[tags.integer(0, noms.length - 1)];
             },
             type: '{{random("Télésiège", "Cabine", "Téléski")}}',
-            dateMiseEnService: '{{moment(this.date(new Date(2002, 0, 1), new Date()))}}'
+            dateMiseEnService: '{{moment(this.date(new Date(2002, 0, 1), new Date()))}}',
+            employe: 'TODO'
           }
         }
       ]
