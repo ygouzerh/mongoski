@@ -1,0 +1,1405 @@
+
+{
+  "_id": "5bfede68b870270b0554326c",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "L'edelweiss de Belleville",
+  "adresse": "596 Dorchester Road, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336820000149",
+  "parking": {
+    "places": 23,
+    "couvert": true
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede6860479ba74088e42f",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La brunerie du pic",
+  "adresse": "269 Adelphi Street, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336328458771",
+  "parking": {
+    "places": 17,
+    "couvert": false
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede68ac730920c555ffb3",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La bergerie des neiges",
+  "adresse": "297 Ainslie Street, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336690070409",
+  "parking": {
+    "places": 29,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68ff3e6857592f348a",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La bergerie triste",
+  "adresse": "103 Village Court, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336142493129",
+  "parking": {
+    "places": 7,
+    "couvert": false
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68e329cc673fcafb35",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La brunerie du pic",
+  "adresse": "621 Battery Avenue, L'Alpe dHuez",
+  "etoiles": 4,
+  "telephone": "+336312054994",
+  "parking": {
+    "places": 30,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede685b5ba6b1eec50620",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Le cairn du pic",
+  "adresse": "523 Vine Street, L'Alpe dHuez",
+  "etoiles": 4,
+  "telephone": "+336247665967",
+  "parking": {
+    "places": 4,
+    "couvert": true
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede6862a4f9e3bfbccd51",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La bergerie triste",
+  "adresse": "112 Quentin Street, L'Alpe dHuez",
+  "etoiles": 4,
+  "telephone": "+336124708224",
+  "parking": {
+    "places": 5,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68177a7548f4f1f9eb",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Royal ours blanc",
+  "adresse": "773 Oak Street, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336298935423",
+  "parking": {
+    "places": 27,
+    "couvert": false
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede6853f00a48d856dcf5",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Vallée blanche blanc",
+  "adresse": "672 Bedford Place, L'Alpe dHuez",
+  "etoiles": 4,
+  "telephone": "+336112425811",
+  "parking": {
+    "places": 29,
+    "couvert": false
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede684d1f1b539064a450",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La bergerie de Belleville",
+  "adresse": "584 Vanderveer Street, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336938575026",
+  "parking": {
+    "places": 1,
+    "couvert": true
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede68dbcd200b7b4ae772",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Le sherpa triste",
+  "adresse": "733 Berry Street, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336980598862",
+  "parking": {
+    "places": 1,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede686d39c1df1cf158ce",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "L'edelweiss noir",
+  "adresse": "370 Dewey Place, L'Alpe dHuez",
+  "etoiles": 2,
+  "telephone": "+336238177568",
+  "parking": {
+    "places": 20,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68a6c45a967fc572d8",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Royal ours des lacs",
+  "adresse": "823 Crosby Avenue, L'Alpe dHuez",
+  "etoiles": 2,
+  "telephone": "+336210430934",
+  "parking": {
+    "places": 34,
+    "couvert": false
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede68645bb14a4753a1cf",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Les gentianes des neiges",
+  "adresse": "747 Louise Terrace, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336683353626",
+  "parking": {
+    "places": 6,
+    "couvert": false
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede68a5abd69214c45664",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "La brunerie du pic",
+  "adresse": "764 Clifford Place, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336459575362",
+  "parking": {
+    "places": 16,
+    "couvert": false
+  },
+  "casierASki": false
+}
+{
+  "_id": "5bfede68655aa89df6d8d05b",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Royal ours des neiges",
+  "adresse": "447 Shale Street, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336511204661",
+  "parking": {
+    "places": 37,
+    "couvert": false
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68f69ab643a3b8b4d6",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Belle aurore du pic",
+  "adresse": "598 Mill Avenue, L'Alpe dHuez",
+  "etoiles": 1,
+  "telephone": "+336717415143",
+  "parking": {
+    "places": 48,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede68f9783c6a4ede92f8",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Royal ours des cimes",
+  "adresse": "643 Reeve Place, L'Alpe dHuez",
+  "etoiles": 2,
+  "telephone": "+336518112017",
+  "parking": {
+    "places": 26,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfede6845ef783d45a75a21",
+  "id_station": "5bfed151c5c2359af79528b0",
+  "nom": "Grandes rousses blanc",
+  "adresse": "971 Dumont Avenue, L'Alpe dHuez",
+  "etoiles": 3,
+  "telephone": "+336645280539",
+  "parking": {
+    "places": 46,
+    "couvert": false
+  },
+  "casierASki": false
+}
+{
+    "_id": "5bfede9d1c2b212f3cc0d308",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "La brunerie du pic",
+    "adresse": "992 Driggs Avenue, Les 2 Alpes",
+    "etoiles": 3,
+    "telephone": "+336444970691",
+    "parking": {
+      "places": 21,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9de7325cc2bd154579",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Le caribou des lacs",
+    "adresse": "798 Taylor Street, Les 2 Alpes",
+    "etoiles": 4,
+    "telephone": "+336305872167",
+    "parking": {
+      "places": 27,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9d9232ac0c25dbc06a",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "L'edelweiss des cimes",
+    "adresse": "370 Macdougal Street, Les 2 Alpes",
+    "etoiles": 2,
+    "telephone": "+336377736714",
+    "parking": {
+      "places": 14,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfede9d5f008c898219c046",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "L'ours noir",
+    "adresse": "898 Rewe Street, Les 2 Alpes",
+    "etoiles": 3,
+    "telephone": "+33640884489",
+    "parking": {
+      "places": 19,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9d9383bcf5fa25a7f7",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Hotelerie de Belleville",
+    "adresse": "715 Loring Avenue, Les 2 Alpes",
+    "etoiles": 3,
+    "telephone": "+336380214221",
+    "parking": {
+      "places": 36,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfede9d9d672abdfe27d447",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Le cairn des cimes",
+    "adresse": "146 Bedell Lane, Les 2 Alpes",
+    "etoiles": 2,
+    "telephone": "+336478472824",
+    "parking": {
+      "places": 3,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9db02933e36fc6bd35",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Les melezes du pic",
+    "adresse": "596 Lott Place, Les 2 Alpes",
+    "etoiles": 4,
+    "telephone": "+336947637962",
+    "parking": {
+      "places": 36,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfede9dd1ea0d98e84f3df0",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "La bergerie triste",
+    "adresse": "367 National Drive, Les 2 Alpes",
+    "etoiles": 3,
+    "telephone": "+33621773315",
+    "parking": {
+      "places": 7,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9d753382b08c505bcb",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "L'ours du pic",
+    "adresse": "287 Verona Place, Les 2 Alpes",
+    "etoiles": 3,
+    "telephone": "+336594191156",
+    "parking": {
+      "places": 26,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfede9d9efb133cd97c5e13",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Royal ours triste",
+    "adresse": "568 Bridgewater Street, Les 2 Alpes",
+    "etoiles": 4,
+    "telephone": "+336590551391",
+    "parking": {
+      "places": 49,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfede9d910c5445dfb109e2",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Hotelerie du pic",
+    "adresse": "578 Midwood Street, Les 2 Alpes",
+    "etoiles": 4,
+    "telephone": "+336380529778",
+    "parking": {
+      "places": 27,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfede9d961ad446f39c871a",
+    "id_station": "5bfed0b40af9fae9803350d8",
+    "nom": "Les gentianes des cimes",
+    "adresse": "246 Menahan Street, Les 2 Alpes",
+    "etoiles": 2,
+    "telephone": "+336187230893",
+    "parking": {
+      "places": 21,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedf5623be951533ce8b01",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "La brunerie noir",
+    "adresse": "594 Jackson Place, La Bresse",
+    "etoiles": 3,
+    "telephone": "+336657060506",
+    "parking": {
+      "places": 49,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedf56a8f9c972d32d6999",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Les bergers des cimes",
+    "adresse": "884 Argyle Road, La Bresse",
+    "etoiles": 3,
+    "telephone": "+336246587601",
+    "parking": {
+      "places": 44,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedf567642ed61990a399d",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Hotelerie triste",
+    "adresse": "180 Durland Place, La Bresse",
+    "etoiles": 2,
+    "telephone": "+336526017711",
+    "parking": {
+      "places": 30,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf5678c75ffc1ff42e7d",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Belle aurore noir",
+    "adresse": "734 Hinsdale Street, La Bresse",
+    "etoiles": 2,
+    "telephone": "+336583121119",
+    "parking": {
+      "places": 8,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf56ae3447234cc73956",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Le chamois blanc",
+    "adresse": "316 Radde Place, La Bresse",
+    "etoiles": 1,
+    "telephone": "+336557702133",
+    "parking": {
+      "places": 3,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf565aa5e5f72318cabe",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "L'edelweiss de la Loze",
+    "adresse": "696 Taylor Street, La Bresse",
+    "etoiles": 2,
+    "telephone": "+336404878670",
+    "parking": {
+      "places": 44,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedf56349aba45c9d56b11",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Royal ours de Belleville",
+    "adresse": "246 Bartlett Street, La Bresse",
+    "etoiles": 1,
+    "telephone": "+33615780727",
+    "parking": {
+      "places": 12,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf5656dcb6a7072057b1",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Grandes rousses blanc",
+    "adresse": "648 Buffalo Avenue, La Bresse",
+    "etoiles": 3,
+    "telephone": "+336185173882",
+    "parking": {
+      "places": 19,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf5637b7f009e3789c66",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "Hotelerie blanc",
+    "adresse": "387 Montana Place, La Bresse",
+    "etoiles": 1,
+    "telephone": "+336167156975",
+    "parking": {
+      "places": 49,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedf56546c3aa4bcee5bf9",
+    "id_station": "5bfecf4b3708a1692b1befa3",
+    "nom": "La bergerie du pic",
+    "adresse": "812 Martense Street, La Bresse",
+    "etoiles": 4,
+    "telephone": "+336843084860",
+    "parking": {
+      "places": 21,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc01431d0356f4b7707",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Grandes rousses blanc",
+    "adresse": "163 Moultrie Street, Chamonix",
+    "etoiles": 2,
+    "telephone": "+336930946792",
+    "parking": {
+      "places": 22,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc0ee42f0c83390ab0c",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "L'edelweiss blanc",
+    "adresse": "744 President Street, Chamonix",
+    "etoiles": 4,
+    "telephone": "+336709129800",
+    "parking": {
+      "places": 15,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc0b1ce64994d995664",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le caribou triste",
+    "adresse": "184 Billings Place, Chamonix",
+    "etoiles": 4,
+    "telephone": "+336488683618",
+    "parking": {
+      "places": 8,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc05a1d154181c31fc3",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le chamois des cimes",
+    "adresse": "293 Falmouth Street, Chamonix",
+    "etoiles": 2,
+    "telephone": "+336505907536",
+    "parking": {
+      "places": 29,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc08561158a1f943056",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Belle aurore du pic",
+    "adresse": "198 Ruby Street, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336771020224",
+    "parking": {
+      "places": 2,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc04c8ce333018f5731",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le chamois de Belleville",
+    "adresse": "771 Bassett Avenue, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336416309248",
+    "parking": {
+      "places": 34,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc0049bdc8fb5be4f46",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le sherpa de la Loze",
+    "adresse": "327 Woodhull Street, Chamonix",
+    "etoiles": 3,
+    "telephone": "+336985576679",
+    "parking": {
+      "places": 26,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc0a5a7fff0919ff001",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le sherpa des neiges",
+    "adresse": "882 Jardine Place, Chamonix",
+    "etoiles": 4,
+    "telephone": "+336848443768",
+    "parking": {
+      "places": 45,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc0bf7d287e083e7e4f",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "La brunerie blanc",
+    "adresse": "296 Pioneer Street, Chamonix",
+    "etoiles": 1,
+    "telephone": "+33618588220",
+    "parking": {
+      "places": 18,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc0f06addaae11df9eb",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le sherpa noir",
+    "adresse": "754 Beverley Road, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336314932573",
+    "parking": {
+      "places": 37,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc0a9cefd02b0d8b935",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Le sherpa blanc",
+    "adresse": "975 Gotham Avenue, Chamonix",
+    "etoiles": 3,
+    "telephone": "+336110681369",
+    "parking": {
+      "places": 46,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc01271faab019ab32e",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "La brunerie du pic",
+    "adresse": "870 Ellery Street, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336582764629",
+    "parking": {
+      "places": 8,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc0264f11b44b5838f3",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Hotelerie de Belleville",
+    "adresse": "813 King Street, Chamonix",
+    "etoiles": 1,
+    "telephone": "+33654983418",
+    "parking": {
+      "places": 37,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfedfc0250eaca8ececf47d",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "Grandes rousses noir",
+    "adresse": "674 Irwin Street, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336426921709",
+    "parking": {
+      "places": 8,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfedfc04e0177262b95cb58",
+    "id_station": "5bfed1c981e7a6ec7646dfb7",
+    "nom": "L'edelweiss noir",
+    "adresse": "256 Opal Court, Chamonix",
+    "etoiles": 1,
+    "telephone": "+336225120244",
+    "parking": {
+      "places": 26,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee03aa59dd421d1aca108",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Le cairn des lacs",
+    "adresse": "245 Waldorf Court, Courchevel",
+    "etoiles": 2,
+    "telephone": "+336621269403",
+    "parking": {
+      "places": 27,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee03abd40420388c59c5b",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Les gentianes noir",
+    "adresse": "852 Porter Avenue, Courchevel",
+    "etoiles": 2,
+    "telephone": "+33662555365",
+    "parking": {
+      "places": 38,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee03a8aecf7000ff19f6a",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Les melezes de la Loze",
+    "adresse": "679 Matthews Place, Courchevel",
+    "etoiles": 2,
+    "telephone": "+336541008827",
+    "parking": {
+      "places": 37,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee03a6d60a0b8d9954248",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "La brunerie noir",
+    "adresse": "636 Bleecker Street, Courchevel",
+    "etoiles": 4,
+    "telephone": "+336813253969",
+    "parking": {
+      "places": 16,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee03aadf224eb9913d815",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Hotelerie noir",
+    "adresse": "556 Vanderbilt Street, Courchevel",
+    "etoiles": 3,
+    "telephone": "+336262588440",
+    "parking": {
+      "places": 16,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee03adb1db642eedb32be",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Les gentianes des neiges",
+    "adresse": "207 Village Road, Courchevel",
+    "etoiles": 4,
+    "telephone": "+33628617582",
+    "parking": {
+      "places": 19,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee03a9b4d0346c8f7ee25",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Les gentianes noir",
+    "adresse": "987 Montgomery Place, Courchevel",
+    "etoiles": 2,
+    "telephone": "+336508376495",
+    "parking": {
+      "places": 34,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee03a047ae67d3ec75c95",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Le chamois blanc",
+    "adresse": "927 Sumner Place, Courchevel",
+    "etoiles": 2,
+    "telephone": "+336626251919",
+    "parking": {
+      "places": 12,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee03a4e4ad8e604cb94eb",
+    "id_station": "5bfed406620197753593f4c0",
+    "nom": "Le sherpa blanc",
+    "adresse": "451 Engert Avenue, Courchevel",
+    "etoiles": 2,
+    "telephone": "+336543638453",
+    "parking": {
+      "places": 43,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+  "_id": "5bfee09ef048295e0d3d5d28",
+  "id_station": "5bfed4f7340cac3dc49db88c",
+  "nom": "La brunerie blanc",
+  "adresse": "138 McKinley Avenue, Ventron",
+  "etoiles": 2,
+  "telephone": "+33630001283",
+  "parking": {
+    "places": 32,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+  "_id": "5bfee09e71491919c98beaee",
+  "id_station": "5bfed4f7340cac3dc49db88c",
+  "nom": "Les melezes du pic",
+  "adresse": "459 Fleet Place, Ventron",
+  "etoiles": 3,
+  "telephone": "+336322167548",
+  "parking": {
+    "places": 28,
+    "couvert": true
+  },
+  "casierASki": true
+}
+{
+    "_id": "5bfee0cebd57642e3c5f11fb",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "La brunerie de Belleville",
+    "adresse": "327 Devoe Street, Chalmazel",
+    "etoiles": 4,
+    "telephone": "+336351123835",
+    "parking": {
+      "places": 23,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ce0c93451d55521bc9",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "L'edelweiss des neiges",
+    "adresse": "760 Cobek Court, Chalmazel",
+    "etoiles": 4,
+    "telephone": "+336887819738",
+    "parking": {
+      "places": 41,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ce845ec06971a6c50d",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Belle aurore du pic",
+    "adresse": "564 Howard Place, Chalmazel",
+    "etoiles": 1,
+    "telephone": "+336735211468",
+    "parking": {
+      "places": 13,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0cee1a1565a8b769bcd",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Grandes rousses des lacs",
+    "adresse": "840 Hanson Place, Chalmazel",
+    "etoiles": 1,
+    "telephone": "+336148553570",
+    "parking": {
+      "places": 18,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ce723df40e5000e5da",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Grandes rousses triste",
+    "adresse": "335 Canda Avenue, Chalmazel",
+    "etoiles": 3,
+    "telephone": "+336233962762",
+    "parking": {
+      "places": 23,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ceabf17d8abaa82d8c",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Le chamois des lacs",
+    "adresse": "706 Albany Avenue, Chalmazel",
+    "etoiles": 4,
+    "telephone": "+336426926937",
+    "parking": {
+      "places": 38,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ceb06782794239ef4f",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Hotelerie noir",
+    "adresse": "102 Powell Street, Chalmazel",
+    "etoiles": 3,
+    "telephone": "+336907239349",
+    "parking": {
+      "places": 38,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee0ce3ce5fc9a9cc2f12a",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Grandes rousses noir",
+    "adresse": "822 Forbell Street, Chalmazel",
+    "etoiles": 2,
+    "telephone": "+336858797341",
+    "parking": {
+      "places": 26,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0ceb6a425ac4295a3de",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "Hotelerie du pic",
+    "adresse": "233 Coyle Street, Chalmazel",
+    "etoiles": 4,
+    "telephone": "+336896043279",
+    "parking": {
+      "places": 13,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee0cea4546a2a8c64c111",
+    "id_station": "5bfed6145b0b68608610d72f",
+    "nom": "La brunerie des cimes",
+    "adresse": "550 Bogart Street, Chalmazel",
+    "etoiles": 4,
+    "telephone": "+336227332919",
+    "parking": {
+      "places": 38,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee10a388d82fe232f8379",
+    "id_station": "5bfed23625f4cf279ab04619",
+    "nom": "L'ours blanc",
+    "adresse": "962 Cleveland Street, Super Besse",
+    "etoiles": 1,
+    "telephone": "+336870593821",
+    "parking": {
+      "places": 48,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee10aaeeea940f614483a",
+    "id_station": "5bfed23625f4cf279ab04619",
+    "nom": "Les melezes noir",
+    "adresse": "591 Chestnut Avenue, Super Besse",
+    "etoiles": 3,
+    "telephone": "+336949438489",
+    "parking": {
+      "places": 37,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee10aee90a19dcc66fe9c",
+    "id_station": "5bfed23625f4cf279ab04619",
+    "nom": "Royal ours du pic",
+    "adresse": "877 Story Court, Super Besse",
+    "etoiles": 3,
+    "telephone": "+336767206259",
+    "parking": {
+      "places": 18,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee10aec4a807f22d03db7",
+    "id_station": "5bfed23625f4cf279ab04619",
+    "nom": "Le cairn de Belleville",
+    "adresse": "165 Amber Street, Super Besse",
+    "etoiles": 2,
+    "telephone": "+336807838979",
+    "parking": {
+      "places": 12,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee10af9fcb416805f260a",
+    "id_station": "5bfed23625f4cf279ab04619",
+    "nom": "Vallée blanche triste",
+    "adresse": "831 Chester Street, Super Besse",
+    "etoiles": 4,
+    "telephone": "+336732415987",
+    "parking": {
+      "places": 30,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee1304c94aae1f2279b45",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "L'ours du pic",
+    "adresse": "760 Marconi Place, Gourette",
+    "etoiles": 4,
+    "telephone": "+336777761432",
+    "parking": {
+      "places": 36,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee130ab2e4d8546e23a22",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "L'ours des neiges",
+    "adresse": "786 Richmond Street, Gourette",
+    "etoiles": 3,
+    "telephone": "+336327421112",
+    "parking": {
+      "places": 43,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee1303c51970f42fdff63",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "La brunerie des cimes",
+    "adresse": "937 Canton Court, Gourette",
+    "etoiles": 3,
+    "telephone": "+336342746604",
+    "parking": {
+      "places": 39,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee13080312ac848b2bca7",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "Le sherpa des neiges",
+    "adresse": "397 Billings Place, Gourette",
+    "etoiles": 3,
+    "telephone": "+336616167640",
+    "parking": {
+      "places": 32,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee1307fe4adc30bb60232",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "Le chamois des lacs",
+    "adresse": "972 Manhattan Avenue, Gourette",
+    "etoiles": 1,
+    "telephone": "+336589429255",
+    "parking": {
+      "places": 38,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee1306f7058c4b426be5c",
+    "id_station": "5bfed357eb97c9654923f38b",
+    "nom": "L'edelweiss blanc",
+    "adresse": "598 Pine Street, Gourette",
+    "etoiles": 4,
+    "telephone": "+336826186097",
+    "parking": {
+      "places": 33,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee155f41b464756867b21",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "L'edelweiss de Belleville",
+    "adresse": "354 Albemarle Terrace, Font-Romeu",
+    "etoiles": 1,
+    "telephone": "+33673086238",
+    "parking": {
+      "places": 30,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee155c8b3220ecb5991b1",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "Le cairn triste",
+    "adresse": "228 Boynton Place, Font-Romeu",
+    "etoiles": 3,
+    "telephone": "+336440195893",
+    "parking": {
+      "places": 47,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee15550b130f4d98f8bd8",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "Vallée blanche des neiges",
+    "adresse": "585 Coventry Road, Font-Romeu",
+    "etoiles": 4,
+    "telephone": "+336296593552",
+    "parking": {
+      "places": 25,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee15500368526894a9f6e",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "Royal ours des neiges",
+    "adresse": "802 Atlantic Avenue, Font-Romeu",
+    "etoiles": 3,
+    "telephone": "+336716031239",
+    "parking": {
+      "places": 44,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee155b3cd40ce46d17e94",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "La brunerie noir",
+    "adresse": "148 Oxford Walk, Font-Romeu",
+    "etoiles": 3,
+    "telephone": "+336300371191",
+    "parking": {
+      "places": 43,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee155b8d73a076b325f09",
+    "id_station": "5bfed2e9dddcab945a341397",
+    "nom": "Le pic blanc noir",
+    "adresse": "857 Benson Avenue, Font-Romeu",
+    "etoiles": 4,
+    "telephone": "+336455625468",
+    "parking": {
+      "places": 2,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18c0f8e4bdde629485a",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Les bergers noir",
+    "adresse": "255 Dooley Street, Tignes",
+    "etoiles": 3,
+    "telephone": "+336759300344",
+    "parking": {
+      "places": 15,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18c5c71bf885ac7f76e",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "La brunerie noir",
+    "adresse": "442 Carlton Avenue, Tignes",
+    "etoiles": 3,
+    "telephone": "+336848276903",
+    "parking": {
+      "places": 24,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18c9ec8ac3d3cea3a8d",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Les melezes blanc",
+    "adresse": "596 Lake Avenue, Tignes",
+    "etoiles": 2,
+    "telephone": "+33630885183",
+    "parking": {
+      "places": 35,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18cd8b8b80fab5834be",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Le pic blanc de la Loze",
+    "adresse": "241 Harman Street, Tignes",
+    "etoiles": 1,
+    "telephone": "+336168690142",
+    "parking": {
+      "places": 46,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18cf069052d64e2b4a2",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "L'ours des lacs",
+    "adresse": "551 Brooklyn Avenue, Tignes",
+    "etoiles": 3,
+    "telephone": "+336919268223",
+    "parking": {
+      "places": 23,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18c14926e87efe50340",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Vallée blanche blanc",
+    "adresse": "439 Centre Street, Tignes",
+    "etoiles": 1,
+    "telephone": "+336544779365",
+    "parking": {
+      "places": 9,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18c9dc7328c76d4798d",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Le cairn de la Loze",
+    "adresse": "268 Degraw Street, Tignes",
+    "etoiles": 3,
+    "telephone": "+336533051290",
+    "parking": {
+      "places": 44,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18cd5189adb33ac44f3",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Vallée blanche blanc",
+    "adresse": "863 Johnson Street, Tignes",
+    "etoiles": 2,
+    "telephone": "+336383849572",
+    "parking": {
+      "places": 44,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18cb866d0fd02668bdd",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Le pic blanc des neiges",
+    "adresse": "860 Hastings Street, Tignes",
+    "etoiles": 2,
+    "telephone": "+336353762759",
+    "parking": {
+      "places": 40,
+      "couvert": true
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18cab31adaaff8d8872",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Royal ours du pic",
+    "adresse": "996 Hanover Place, Tignes",
+    "etoiles": 1,
+    "telephone": "+336989749949",
+    "parking": {
+      "places": 36,
+      "couvert": false
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18cf2d87ecdfa4a2093",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "L'edelweiss des cimes",
+    "adresse": "283 Eldert Lane, Tignes",
+    "etoiles": 2,
+    "telephone": "+336622528529",
+    "parking": {
+      "places": 39,
+      "couvert": false
+    },
+    "casierASki": true
+  }
+  {
+    "_id": "5bfee18c7fe9f1372de6bbb9",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "Le cairn des neiges",
+    "adresse": "193 Vanderveer Street, Tignes",
+    "etoiles": 3,
+    "telephone": "+336740964797",
+    "parking": {
+      "places": 19,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18c325c64e5cb44847a",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "L'ours des cimes",
+    "adresse": "635 Pleasant Place, Tignes",
+    "etoiles": 3,
+    "telephone": "+336389942249",
+    "parking": {
+      "places": 38,
+      "couvert": true
+    },
+    "casierASki": false
+  }
+  {
+    "_id": "5bfee18ca2f842fda5acf3c5",
+    "id_station": "5bfed6b7dac6dd5dc457f600",
+    "nom": "L'edelweiss des neiges",
+    "adresse": "112 Lawton Street, Tignes",
+    "etoiles": 3,
+    "telephone": "+336831660023",
+    "parking": {
+      "places": 9,
+      "couvert": false
+    },
+    "casierASki": false
+  }
