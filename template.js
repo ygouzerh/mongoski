@@ -90,3 +90,56 @@
     }
   }
 ]
+
+// Fromageries
+[
+  {
+    'repeat(3, 3)': {
+      _id: '{{objectId()}}',
+      id_station: '5bfed6b7dac6dd5dc457f600',
+      nom(tags) {
+       	const noms = ["Chez", "La fromagerie", "Le comptoire de", "La bergerie de", "L'étable de", "La crèmerie de"];
+        const pers = ["Gérard", "Bernard", "Antoine", "Yohan", "Quentin", "Loic", "Maxime", "Ginette", "François", "Roland", "Bert", "Gertrude", "Felix"];
+        return noms[tags.integer(0, noms.length - 1)] + " " + pers[tags.integer(0, pers.length - 1)];
+      },
+      adresse: '{{integer(100, 999)}} {{street()}}, Tignes',
+      type: "Fromagerie",
+      telephone: '+336' + '{{integer(10000000, 999999999)}}',
+      produits: [
+        {
+          'repeat(5, 10)': {
+            nom(tags) {
+              const fromages = ["Bleu", "Chèvre", "Gorgonzola", "Comté", "Reblochon", "Abondance", "Mimolette", "Cheddar", "Beaufort", "Tomme de Savoie", "Chevrotin", "Raclette", "Emmental"];
+              return fromages[tags.integer(0, fromages.length - 1)];
+            },
+            prixKilo: '{{integer(5, 18)}}'
+          }
+        }
+      ]
+    }
+  }
+]
+
+// Restaurants
+[
+  {
+    'repeat(3, 7)': {
+      _id: '{{objectId()}}',
+      id_station: '5bfed6b7dac6dd5dc457f600',
+      nom(tags) {
+       	const noms = ["La table", "Au comptoir", "La pizza", "La fondue", "Snack", "Pizzeria", "Buffet", "La crêperie"];
+        const pers = ["de Gérard", "de Bernard", "d'Antoine", "de Yohan", "de Quentin", "de Loic", "de Maxime", "de Ginette", "de François", "de Roland", "de Bert", "de Gertrude", "de Felix", "des cimes", "des neiges", "des montagnes", "du lac", "du pic", "des bois", "des pistes", "du cerf", "des marmottes"];
+        return noms[tags.integer(0, noms.length - 1)] + " " + pers[tags.integer(0, pers.length - 1)];
+      },
+      adresse: '{{integer(100, 999)}} {{street()}}, Tignes',
+      type: "Restaurant",
+      telephone: '+336' + '{{integer(10000000, 999999999)}}',
+      detailsRestaurant: [
+        {
+          prixMenu: '{{integer(10, 35)}}',
+          typeCuisine: '{{random("Asiatique", "Traditionnelle", "Italienne", "Bouchon", "Indien")}}'
+        }
+      ]
+    }
+  }
+]

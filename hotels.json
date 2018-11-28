@@ -5,7 +5,6 @@
   "nom": "L'edelweiss de Belleville",
   "adresse": "596 Dorchester Road, L'Alpe dHuez",
   "etoiles": 1,
-  "telephone": "+336820000149",
   "parking": {
     "places": 23,
     "couvert": true
@@ -31,7 +30,6 @@
   "nom": "La bergerie des neiges",
   "adresse": "297 Ainslie Street, L'Alpe dHuez",
   "etoiles": 1,
-  "telephone": "+336690070409",
   "parking": {
     "places": 29,
     "couvert": true
@@ -57,7 +55,6 @@
   "nom": "La brunerie du pic",
   "adresse": "621 Battery Avenue, L'Alpe dHuez",
   "etoiles": 4,
-  "telephone": "+336312054994",
   "parking": {
     "places": 30,
     "couvert": true
@@ -70,7 +67,6 @@
   "nom": "Le cairn du pic",
   "adresse": "523 Vine Street, L'Alpe dHuez",
   "etoiles": 4,
-  "telephone": "+336247665967",
   "parking": {
     "places": 4,
     "couvert": true
@@ -122,7 +118,6 @@
   "nom": "La bergerie de Belleville",
   "adresse": "584 Vanderveer Street, L'Alpe dHuez",
   "etoiles": 3,
-  "telephone": "+336938575026",
   "parking": {
     "places": 1,
     "couvert": true
@@ -161,7 +156,6 @@
   "nom": "Royal ours des lacs",
   "adresse": "823 Crosby Avenue, L'Alpe dHuez",
   "etoiles": 2,
-  "telephone": "+336210430934",
   "parking": {
     "places": 34,
     "couvert": false
@@ -187,7 +181,6 @@
   "nom": "La brunerie du pic",
   "adresse": "764 Clifford Place, L'Alpe dHuez",
   "etoiles": 3,
-  "telephone": "+336459575362",
   "parking": {
     "places": 16,
     "couvert": false
@@ -213,7 +206,6 @@
   "nom": "Belle aurore du pic",
   "adresse": "598 Mill Avenue, L'Alpe dHuez",
   "etoiles": 1,
-  "telephone": "+336717415143",
   "parking": {
     "places": 48,
     "couvert": true
@@ -226,7 +218,6 @@
   "nom": "Royal ours des cimes",
   "adresse": "643 Reeve Place, L'Alpe dHuez",
   "etoiles": 2,
-  "telephone": "+336518112017",
   "parking": {
     "places": 26,
     "couvert": true
@@ -252,7 +243,6 @@
     "nom": "La brunerie du pic",
     "adresse": "992 Driggs Avenue, Les 2 Alpes",
     "etoiles": 3,
-    "telephone": "+336444970691",
     "parking": {
       "places": 21,
       "couvert": false
@@ -304,7 +294,6 @@
     "nom": "Hotelerie de Belleville",
     "adresse": "715 Loring Avenue, Les 2 Alpes",
     "etoiles": 3,
-    "telephone": "+336380214221",
     "parking": {
       "places": 36,
       "couvert": true
@@ -356,7 +345,6 @@
     "nom": "L'ours du pic",
     "adresse": "287 Verona Place, Les 2 Alpes",
     "etoiles": 3,
-    "telephone": "+336594191156",
     "parking": {
       "places": 26,
       "couvert": false
@@ -408,7 +396,6 @@
     "nom": "La brunerie noir",
     "adresse": "594 Jackson Place, La Bresse",
     "etoiles": 3,
-    "telephone": "+336657060506",
     "parking": {
       "places": 49,
       "couvert": false
@@ -434,7 +421,6 @@
     "nom": "Hotelerie triste",
     "adresse": "180 Durland Place, La Bresse",
     "etoiles": 2,
-    "telephone": "+336526017711",
     "parking": {
       "places": 30,
       "couvert": false
@@ -564,7 +550,6 @@
     "nom": "Le caribou triste",
     "adresse": "184 Billings Place, Chamonix",
     "etoiles": 4,
-    "telephone": "+336488683618",
     "parking": {
       "places": 8,
       "couvert": true
@@ -577,7 +562,6 @@
     "nom": "Le chamois des cimes",
     "adresse": "293 Falmouth Street, Chamonix",
     "etoiles": 2,
-    "telephone": "+336505907536",
     "parking": {
       "places": 29,
       "couvert": false
@@ -590,7 +574,6 @@
     "nom": "Belle aurore du pic",
     "adresse": "198 Ruby Street, Chamonix",
     "etoiles": 1,
-    "telephone": "+336771020224",
     "parking": {
       "places": 2,
       "couvert": true
@@ -720,7 +703,6 @@
     "nom": "L'edelweiss noir",
     "adresse": "256 Opal Court, Chamonix",
     "etoiles": 1,
-    "telephone": "+336225120244",
     "parking": {
       "places": 26,
       "couvert": false
@@ -850,7 +832,6 @@
   "nom": "La brunerie blanc",
   "adresse": "138 McKinley Avenue, Ventron",
   "etoiles": 2,
-  "telephone": "+33630001283",
   "parking": {
     "places": 32,
     "couvert": true
@@ -1019,7 +1000,6 @@
     "nom": "Les melezes noir",
     "adresse": "591 Chestnut Avenue, Super Besse",
     "etoiles": 3,
-    "telephone": "+336949438489",
     "parking": {
       "places": 37,
       "couvert": true
@@ -1032,7 +1012,6 @@
     "nom": "Royal ours du pic",
     "adresse": "877 Story Court, Super Besse",
     "etoiles": 3,
-    "telephone": "+336767206259",
     "parking": {
       "places": 18,
       "couvert": true
@@ -1123,7 +1102,6 @@
     "nom": "Le chamois des lacs",
     "adresse": "972 Manhattan Avenue, Gourette",
     "etoiles": 1,
-    "telephone": "+336589429255",
     "parking": {
       "places": 38,
       "couvert": false
@@ -1318,7 +1296,6 @@
     "nom": "Vallée blanche blanc",
     "adresse": "863 Johnson Street, Tignes",
     "etoiles": 2,
-    "telephone": "+336383849572",
     "parking": {
       "places": 44,
       "couvert": true
