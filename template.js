@@ -1,17 +1,21 @@
 // Employe
 
 [
-  '{{repeat(20, 20)}}',
   {
-    _id: '{{objectId()}}',
-    age: '{{integer(24, 60)}}',
-    nom: '{{firstName()}}',
-    prenom: '{{surname()}}',
-    gender: '{{gender()}}',
-    address: '{{integer(100, 999)}} {{street()}}, {{city()}}',
-    embauche: '{{date(new Date(2010, 0, 1), new Date(), "YYYY-MM-dd")}}'
+    'repeat(19, 20)':
+    {
+      _id: '{{objectId()}}',
+      age: '{{integer(24, 60)}}',
+      nom: '{{firstName()}}',
+      prenom: '{{surname()}}',
+      gender: '{{random("H", "F")}}',
+      address: '{{integer(100, 999)}} {{street()}}, {{city()}}',
+      embauche: 'Date({{ moment(this.date(new Date(2010, 0, 1), new Date())).format("YYYY-MM-DD") }})'
+    }
   }
 ]
+
+// Station
 
 [
   {
@@ -61,6 +65,27 @@
           }
         }
       ]
+    }
+  }
+]
+
+// Hotels
+[
+  {
+    'repeat(2, 5)': {
+      _id: '{{objectId()}}',
+      nom(tags) {
+       	const noms = ["Le pic blanc", "Grandes rousses", "Royal ours blanc", "Le caribou", "Les gentianes", "Les bergers", "La bergerie", "Le chamois", "Belle aurore", "Vallée blanche", "Hotelerie des neiges", "Le cairn", "Le sherpa", "Les melezes", "La brunerie", "L'ours", "L'edelweiss"];
+        return noms[tags.integer(0, noms.length - 1)];
+      },
+      adresse: '{{integer(100, 999)}} {{street()}}, {{city()}}',
+      etoiles: '{{integer(1,4)}}',
+      telephone: '+336' + '{{integer(10000000, 999999999)}}',
+      parking: {
+        places: '{{integer(0, 50)}}',
+        couvert: '{{bool()}}'
+      },
+      casierASki: '{{bool()}}'
     }
   }
 ]
