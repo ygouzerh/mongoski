@@ -239,7 +239,7 @@
         }
       }
     ],
-    "pisteurs": ["5bfec1f8779371e0223537cb", "5bfec1f85d93db46b80c1f63", "5bfec1f8447193c30968a4a3", "5bfec1f8e3a97b8830ea9f2d", "5bfec1f8d01e0baaddd07f47", "5bfec1f873af57e395bfa25d", "5bfec1f832eb755f64dcb59e", "5bfec1f8d7b18f6afb55a68d", "5bfec1f8ea2397ac9702ce9f"],
+    "pisteurs": ["5bfec1f8779371e0223537cb", "5bfec1f85d93db46b80c1f63", "5bfec1f8447193c30968a4a3", "5bfec1f8e3a97b8830ea9f2d", "5bfec1f8d01e0baaddd07f47", "5bfec1f873af57e395bfa25d", "5bfec1f832eb755f64dcb59e", "5bfec1f8d7b18f6afb55a68d", "5bfec1f8ea2397ac9702ce9f", "5bfec109bfbb007824723936"],
     "enneigementStation": 107,
     "enneigementSommet": 136,
     "remonteesMecaniques": [
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "pisteurs": ["5bfec1f8d1f7bc0de058445a", "5bfec1f8366983fee4999962", "5bfec1f8461c5147dd4684bf", "5bfec1f8de4c09458d10c65b", "5bfec1f8beb1a040a274fe8b"],
+  "pisteurs": ["5bfec1f8d1f7bc0de058445a", "5bfec1f8366983fee4999962", "5bfec1f8461c5147dd4684bf", "5bfec1f8de4c09458d10c65b", "5bfec1f8beb1a040a274fe8b", "5bfec1094791a80d98e97916"],
   "enneigementStation": 101,
   "enneigementSommet": 282,
   "remonteesMecaniques": [
@@ -1271,7 +1271,7 @@
           }
         }
       ],
-      "pisteurs": ["5bfec1f8436bdec816cf69f4", "5bfec1f876c15bd9f768a0ce", "5bfec1f8a8fc233447015691", "5bfec1f832906c1a19432773", "5bfec1f8d51c0c1fe51ac738", "5bfec1f81257c40647c6fb03", "5bfec1f8450943d145a2ba6e", "5bfec1f8566358652d026e05", "5bfec1f814f98d859ff7fa5a", "5bfec1f89a80f927accd9a2c"],
+      "pisteurs": ["5bfec1f8436bdec816cf69f4", "5bfec1f876c15bd9f768a0ce", "5bfec1f8a8fc233447015691", "5bfec1f832906c1a19432773", "5bfec1f8d51c0c1fe51ac738", "5bfec1f81257c40647c6fb03", "5bfec1f8450943d145a2ba6e", "5bfec1f8566358652d026e05", "5bfec1f814f98d859ff7fa5a", "5bfec1f89a80f927accd9a2c", "5bfec1099f04197b781787e3"],
       "enneigementStation": 85,
       "enneigementSommet": 155,
       "remonteesMecaniques": [
