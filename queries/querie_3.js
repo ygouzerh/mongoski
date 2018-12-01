@@ -1,6 +1,5 @@
 // Récupérer la moyenne des tailles des pistes par station.
 // Objectif : ne pas utiliser avg
-// Requête imbriqué sur la même collection
 db.station.aggregate([
   // Récupère la liste des longeurs des pistes par station
   {$unwind: "$pistes"},
@@ -13,7 +12,7 @@ db.station.aggregate([
       }
     }
   },
-  // Réduit cette liste à la somme des longeurs et au nombre de valeurs
+  // Réduit cette liste à la somme des longueurs et au nombre de valeurs
   {
     $project: {
       "nom": 1,
