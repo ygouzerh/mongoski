@@ -1,4 +1,4 @@
-// Compte le nombre d'hotels avec parking par étoiles
+// Compte le nombre d'hotels avec des casiers à ski par étoiles
 // Utilise l'algo de MapReduce
 db.hotel.mapReduce(
   // Fonction Map
