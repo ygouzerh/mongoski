@@ -1,9 +1,10 @@
-// Ajoute l'employé à la piste la plus longue des stations comportant un restaurant chinois et un vendeur de reblochon
-// Pour chaque restaurant asiatique, récupérer la plus haute hauteur de piste.
-// Récupère la hauteur des
+// Pour chaque restaurant asiatique, récupérer la plus haute hauteur de piste à laquelle
+// un client pourrait skier.
+// Pour faire le lien entre restaurants et station : utilise map au lieu de lookup ici.
 db.commerce.aggregate([
-  // Need to unwind becaue it is an array
+  // Les détails sont en array donc on doit unwind
   {$unwind: "$detailsRestaurant"},
+  // Commerces = Restaurant ou Commerce. On a des champs différents pour les deux, doit checker
   {$match: {
     "type": "Restaurant",
     "detailsRestaurant.typeCuisine": "Asiatique"
@@ -18,7 +19,9 @@ db.commerce.aggregate([
   {$match: {
     "_id": commerce.id_station
   }},
+  // Fait le lien restaurant - station
   {$unwind: "$pistes"},
+  // Récupère la hauteur de la piste la plus haute de la station
   {$group: {
     "_id": "$_id",
     "nom": {$first: "$nom"},
