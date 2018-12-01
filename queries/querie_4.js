@@ -1,4 +1,6 @@
-// Récupérer les noms et les prénoms des pisteurs qui s'occupent des remontées mécaniques
+// Récupérer les noms et les prénoms des employés
+// qui s'occupent des remontées mécaniques et qui sont à la fois pisteurs.
+// Utilise lookup ici pour faire le lien entre employe station
 db.station.aggregate([
     // Explode the arrays
     {$unwind: "$pisteurs"},
