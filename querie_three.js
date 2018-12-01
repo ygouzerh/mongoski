@@ -1,4 +1,4 @@
-// Récupérer la moyenne des tailles des pistes par sattion.
+// Récupérer la moyenne des tailles des pistes par station.
 db.station.aggregate([
   {$unwind: "$pistes"},
   {

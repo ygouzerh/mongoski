@@ -1,5 +1,3 @@
-// Queries
-
 // Récupérer les noms et le massif des stations, ainsi que l'altitude
 // sous la chaine: "'Massif' - 'Nom' ('altitudeMin'-'altitudeMax' m): X pistes noires." (sans les quotes) avec plus de 5 pistes noires
 db.station.aggregate([
